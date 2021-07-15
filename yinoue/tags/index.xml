@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Yoshiyuki Inoue</title>
+    <link>http://ithems-members.riken.jp/inoue/tags/</link>
+    <description>Recent content in Tags on Yoshiyuki Inoue</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>yoshiyuki.inoue_at_riken.jp (Yoshiyuki Inoue)</managingEditor>
+    <webMaster>yoshiyuki.inoue_at_riken.jp (Yoshiyuki Inoue)</webMaster>
+    <lastBuildDate>Wed, 26 Aug 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://ithems-members.riken.jp/inoue/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>research</title>
+      <link>http://ithems-members.riken.jp/inoue/tags/research/</link>
+      <pubDate>Wed, 26 Aug 2020 00:00:00 +0000</pubDate>
+      <author>yoshiyuki.inoue_at_riken.jp (Yoshiyuki Inoue)</author>
+      <guid>http://ithems-members.riken.jp/inoue/tags/research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lecture</title>
+      <link>http://ithems-members.riken.jp/inoue/tags/lecture/</link>
+      <pubDate>Sat, 22 Aug 2020 00:00:00 +0000</pubDate>
+      <author>yoshiyuki.inoue_at_riken.jp (Yoshiyuki Inoue)</author>
+      <guid>http://ithems-members.riken.jp/inoue/tags/lecture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>outreach</title>
+      <link>http://ithems-members.riken.jp/inoue/tags/outreach/</link>
+      <pubDate>Sat, 22 Aug 2020 00:00:00 +0000</pubDate>
+      <author>yoshiyuki.inoue_at_riken.jp (Yoshiyuki Inoue)</author>
+      <guid>http://ithems-members.riken.jp/inoue/tags/outreach/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>misc</title>
+      <link>http://ithems-members.riken.jp/inoue/tags/misc/</link>
+      <pubDate>Wed, 27 May 2020 00:00:00 +0000</pubDate>
+      <author>yoshiyuki.inoue_at_riken.jp (Yoshiyuki Inoue)</author>
+      <guid>http://ithems-members.riken.jp/inoue/tags/misc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>people</title>
+      <link>http://ithems-members.riken.jp/inoue/tags/people/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <author>yoshiyuki.inoue_at_riken.jp (Yoshiyuki Inoue)</author>
+      <guid>http://ithems-members.riken.jp/inoue/tags/people/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yoshiyuki Inoue</title>
+    <link>http://ithems-members.riken.jp/inoue/en/</link>
+    <description>Recent content on Yoshiyuki Inoue</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>yoshiyuki.inoue_at_riken.jp (Yoshiyuki Inoue)</managingEditor>
+    <webMaster>yoshiyuki.inoue_at_riken.jp (Yoshiyuki Inoue)</webMaster>
+    <lastBuildDate>Wed, 27 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://ithems-members.riken.jp/inoue/en/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Renovate my website</title>
+      <link>http://ithems-members.riken.jp/inoue/en/post/2020-05-27-renovation-webpage/</link>
+      <pubDate>Wed, 27 May 2020 00:00:00 +0000</pubDate>
+      <author>yoshiyuki.inoue_at_riken.jp (Yoshiyuki Inoue)</author>
+      <guid>http://ithems-members.riken.jp/inoue/en/post/2020-05-27-renovation-webpage/</guid>
+      <description>I renovate my website. Now it relys on Hugo. I adopt the Beautiful Hugo as the theme.</description>
+    </item>
+    
+    <item>
+      <title>Our paper on the evolution of FSRQs is accepted by ApJ.</title>
+      <link>http://ithems-members.riken.jp/inoue/en/post/2020-05-06-fsrq-xlf/</link>
+      <pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate>
+      <author>yoshiyuki.inoue_at_riken.jp (Yoshiyuki Inoue)</author>
+      <guid>http://ithems-members.riken.jp/inoue/en/post/2020-05-06-fsrq-xlf/</guid>
+      <description>Title: Cosmological Evolution of FSRQs based on the Swift/BAT 105-month Catalog and Their Contribution to the Cosmic MeV Gamma-ray Background Radiation.
+Authors: Koyo Toda, Yasushi Fukazawa, Yoshiyuki Inoue
+We present a new X-ray luminosity function of flat-spectrum radio quasars (FSRQs) utilizing the latest Swift/BAT 105-month X-ray source catalog. Contrary to previous studies of FSRQs in the X-ray band, using the luminosity-dependent density evolution model, we find that FSRQs show evolutionary peaks at z∼1−2 depending on luminosities.</description>
+    </item>
+    
+    <item>
+      <title>A lecture talk at University of Tokyo</title>
+      <link>http://ithems-members.riken.jp/inoue/en/post/2020-04-22-lecture/</link>
+      <pubDate>Wed, 22 Apr 2020 00:00:00 +0000</pubDate>
+      <author>yoshiyuki.inoue_at_riken.jp (Yoshiyuki Inoue)</author>
+      <guid>http://ithems-members.riken.jp/inoue/en/post/2020-04-22-lecture/</guid>
+      <description>東大駒場の2020年度学術フロンティア講義「数理科学の研究フロンティア：宇宙，物質，生命，情報」において、「ブラックホールを通して紐解く宇宙の歴史」というタイトルで講義をしました。スライドはこちらから。</description>
+    </item>
+    
+    <item>
+      <title>Dr. Naomi Tsuji joined our group.</title>
+      <link>http://ithems-members.riken.jp/inoue/en/post/2020-04-01-dr.naomi-tsuji/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <author>yoshiyuki.inoue_at_riken.jp (Yoshiyuki Inoue)</author>
+      <guid>http://ithems-members.riken.jp/inoue/en/post/2020-04-01-dr.naomi-tsuji/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Downloads</title>
+      <link>http://ithems-members.riken.jp/inoue/en/page/download/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>yoshiyuki.inoue_at_riken.jp (Yoshiyuki Inoue)</author>
+      <guid>http://ithems-members.riken.jp/inoue/en/page/download/</guid>
+      <description>Data from our papers Please read each paper for details. To download numerical data, please click the link right next to the &amp;ldquo;Data File:&amp;quot;. If you have any queries and/or need other data, please contact me freely.
+ Extragalactic Background Light model: (Inoue et al. 2013)  Model data of EBL intensity (z=0), Proper photon density, and Gamma-ray Opacity Data File: EBL_data_yinoue.tar.gz   A bound on primordial black holes density: (Inoue &amp;amp; Kusenko 2017)  The upper bound on the PBH mass fraction based on luminosity function of XRBs Data File: Limit_Omega_PBH_IK17.</description>
+    </item>
+    
+    <item>
+      <title>Profile</title>
+      <link>http://ithems-members.riken.jp/inoue/en/page/profile/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>yoshiyuki.inoue_at_riken.jp (Yoshiyuki Inoue)</author>
+      <guid>http://ithems-members.riken.jp/inoue/en/page/profile/</guid>
+      <description>Name: Yoshiyuki Inoue
+Email: yoshiyuki.inoue_at_riken.jp
+Phone: +81-48-467-9608
+Date of Birth:	February 1st, 1985
+Nationality:	Japan
+Address: iTHEMS, RIKEN, 2-1 Hirosawa, Wako, Saitama 351-0198, JAPAN
+Projects: CTA (2010-), Fermi (2012-), Hitomi (2012-), NuSTAR (2012-2014), MAGIC (2019-), GRAMS (2019-)
+Research Interests High Energy Astrophysics, Supermassive Black Holes, Active Galactic Nuclei, Relativistic Jets, Cosmic Background Radiation
+Education  Ph.D. (Science), Department of Astronomy, Kyoto University, March, 2012 M.S. (Scinence), Department of Astronomy, Kyoto University, March, 2009 B.</description>
+    </item>
+    
+    <item>
+      <title>Publication</title>
+      <link>http://ithems-members.riken.jp/inoue/en/page/publication/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>yoshiyuki.inoue_at_riken.jp (Yoshiyuki Inoue)</author>
+      <guid>http://ithems-members.riken.jp/inoue/en/page/publication/</guid>
+      <description>List of Papers NASA/ADS  All Papers First Author Papers  Observational Proposals (Not Complete) PI programs Unveiling Local Metallicity Environment of X-ray Binaries in M 51
+PI: Yoshiyuki Inoue, Seimei 2020A, 3 nights Search for time variability in coronal syncrotron emission in a nearby Seyfert galaxy
+PI: Yoshiyuki Inoue, ALMA Cycle-7 Unveiling Local Metallicity Environment of X-ray Binaries in M 33
+PI: Yoshiyuki Inoue, Seimei 2019B, 4 nights Unveiling Local Metallicity Environment of X-ray Binaries in M 51</description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>http://ithems-members.riken.jp/inoue/en/page/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>yoshiyuki.inoue_at_riken.jp (Yoshiyuki Inoue)</author>
+      <guid>http://ithems-members.riken.jp/inoue/en/page/research/</guid>
+      <description>Research Style. I have been working on both theoretical and observational astrophysics. My research attitude is to try anything that interests me 1.
+Main Research Subjects.  Black holes
+  As for astrophysical phenomena, I like black holes. Research topics of black hole objects are diverse such as primordial black holes, supermassive black holes, accretion disks, and jet. I am interested in all those kinds of astrophysical phenomena related to black holes.</description>
+    </item>
+    
+    <item>
+      <title>Talks</title>
+      <link>http://ithems-members.riken.jp/inoue/en/page/talk/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>yoshiyuki.inoue_at_riken.jp (Yoshiyuki Inoue)</author>
+      <guid>http://ithems-members.riken.jp/inoue/en/page/talk/</guid>
+      <description>Previous Talks: Before 2020
+2020 Title: &#34;セイファートのミリ波超過成分の起源&#34;  Date: 2020/xx/xx Place: 日本天文学会2020年秋季年会, zoom Presentation: Talk   Title: &#34;Unveiling the Nature of Supermassive Black Holes By Linking Theory and Observations&#34;  Date: 2020/06/08 Place: 大阪大学宇宙地球科学セミナー
+ Presentation: Talk   Title: &#34;ブラックホールを通して紐解く宇宙の歴史&#34;  Date: 2020/04/22 Place: 東京大学2020年度Ｓセメスター　学術フロンティア講義
+「数理科学の研究フロンティア：宇宙，物質，生命，情報」 Presentation: Talk (pdf)   Title: &#34;Coronal Magnetic Activity in nearby Active Supermassive Black Holes&#34;  Date: 2020/03/16 Place: 日本天文学会2020年春季年会, 筑波大学 Presentation: Talk (pdf)   Title: &#34;</description>
+    </item>
+    
+    <item>
+      <title>Talks Before 2020</title>
+      <link>http://ithems-members.riken.jp/inoue/en/page/talk_before2020/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>yoshiyuki.inoue_at_riken.jp (Yoshiyuki Inoue)</author>
+      <guid>http://ithems-members.riken.jp/inoue/en/page/talk_before2020/</guid>
+      <description>Not Complete Invited Gordon Research Conference &#34;New Tools for the Next Generation of Particle Physics and Cosmology&#34;, Hong Kong, July 2019
+&#34;Gamma-ray Astrophysics: Phenomenology&#34; The 10th International workshop on Very High Energy Particle Astronomy (VHEPA2019), Kashiwa, February 2019
+&#34;Multi-messenger Signals from Supermassive Black Holes&#34; The fifth Physics and Astrophysics at the Extreme PAX V-MM19 workshop, USA, Febrary 2019
+“Power of AGN Jets” Accretion Processes in Cosmic Sources - II, Russia, September 2018</description>
+    </item>
+    
+  </channel>
+</rss>

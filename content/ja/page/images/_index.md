@@ -1,0 +1,11 @@
+---
+title: Media Folder
+---
+{{ $imagename := (.Get 0) }}
+{{ $options := .Get 1 }}
+{{ with .Site.GetPage "section" "media" }}
+  {{ $original := .Resources.GetByPrefix  $imagename }}
+  {{ with ($original.Resize $options) }}
+  <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}">
+  {{ end }} 
+{{ end }}

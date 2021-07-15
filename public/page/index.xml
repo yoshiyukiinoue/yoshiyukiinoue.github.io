@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Yoshiyuki Inoue</title>
+    <link>http://astro-osaka.jp/inoue/page/</link>
+    <description>Recent content in Pages on Yoshiyuki Inoue</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>yinoue_at_astro-osaka.jp (Yoshiyuki Inoue)</managingEditor>
+    <webMaster>yinoue_at_astro-osaka.jp (Yoshiyuki Inoue)</webMaster><atom:link href="http://astro-osaka.jp/inoue/page/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://astro-osaka.jp/inoue/page/exbcatalog/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>yinoue_at_astro-osaka.jp (Yoshiyuki Inoue)</author>
+      <guid>http://astro-osaka.jp/inoue/page/exbcatalog/</guid>
+      <description>Extragalactic X-ray Binary Catalog Inoue &amp;amp; Yabe in prep.
+Introduction We construct a new catalog of extragalactic X-ray binaries (ExB) utilizing the latest Chandra, XMM-Newton, and Swift X-ray source catalogs by matching with the local galaxy catalogs. Our ExB catalog contains 9314 XRBs hosted by 417 galaxies, which is the largest ever XRB catalog.
+Catalog Download  Compact Object Catalog (Main Catalog)  FITS/Ascii    Table Description    Column Name Unit Note     Name_XRB  Source name   RA deg Right ascension of the source   DEC deg Declination of the source   L_X_2_10 erg/s 2-10 keV luminosity   Satellite  ID of the satellite which measured the source.</description>
+    </item>
+    
+    <item>
+      <title>Downloads</title>
+      <link>http://astro-osaka.jp/inoue/page/download/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>yinoue_at_astro-osaka.jp (Yoshiyuki Inoue)</author>
+      <guid>http://astro-osaka.jp/inoue/page/download/</guid>
+      <description>Data from our papers Please read each paper for details. To download numerical data, please click the link right next to the &amp;ldquo;Data File:&amp;rdquo;. If you have any queries and/or need other data, please contact me freely.
+ Extragalactic Background Light model: (Inoue et al. 2013)  Model data of EBL intensity (z=0), Proper photon density, and Gamma-ray Opacity Data File: EBL_data_yinoue.tar.gz   A bound on primordial black holes density: (Inoue &amp;amp; Kusenko 2017)  The upper bound on the PBH mass fraction based on luminosity function of XRBs Data File: Limit_Omega_PBH_IK17.</description>
+    </item>
+    
+    <item>
+      <title>Talks Before 2020</title>
+      <link>http://astro-osaka.jp/inoue/page/talk_before2020/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>yinoue_at_astro-osaka.jp (Yoshiyuki Inoue)</author>
+      <guid>http://astro-osaka.jp/inoue/page/talk_before2020/</guid>
+      <description>Not Complete Invited Gordon Research Conference &#34;New Tools for the Next Generation of Particle Physics and Cosmology&#34;, Hong Kong, July 2019
+&#34;Gamma-ray Astrophysics: Phenomenology&#34; The 10th International workshop on Very High Energy Particle Astronomy (VHEPA2019), Kashiwa, February 2019
+&#34;Multi-messenger Signals from Supermassive Black Holes&#34; The fifth Physics and Astrophysics at the Extreme PAX V-MM19 workshop, USA, Febrary 2019
+“Power of AGN Jets” Accretion Processes in Cosmic Sources - II, Russia, September 2018</description>
+    </item>
+    
+    <item>
+      <title>学生のみなさんへ</title>
+      <link>http://astro-osaka.jp/inoue/page/forstudents/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>yinoue_at_astro-osaka.jp (Yoshiyuki Inoue)</author>
+      <guid>http://astro-osaka.jp/inoue/page/forstudents/</guid>
+      <description>学生のみなさんに伝えておきたいことを、雑多にまとめました。長くなったので、忙しい人は読まないほうが良いです。
+健康管理  無事之名馬。 倒れたら研究はできません。規則正しい生活・適度な息抜きは大切です。オン・オフの切替も大事です。研究より自分と家族を大切に1。  教育・研究方針について  僕の基本方針は東大の戸谷さんのページにあるとおりです2。
+戸谷研 学生心得  追加コメント。
+ 理論天文学において、(任期あり)若手研究者が新たに(任期なし)常勤ポストにつく数は大体4〜5名/年とありますが、データが少し古いです。運営費交付金削減の影響などで、現在はもう少し減っています。数名/年ぐらいの心づもりが良いと思います。一方で、毎年10名ほどの博士号取得者が研究にすすんでいます。つまり、需要と供給が釣り合っておらず、任期なしポストは苛烈な競争下にあります。寒い時代ですが、この状況で生き抜くしかありません。各所での面接候補者リストなどをみると、少なくとも ±5 学年の人と職を争うことになります。つまり M1 は D3 に追いつかないといけない。この苛烈な競争環境を生き抜くには、最低5年分を埋める・追い越す努力、または突き放す努力が必要でしょう。  考える力を養おう。  研究≠勉強 自分で考える力が大事です。 そのためには、色んな人と議論する。いろんな論文を読む。新しいアイデアを考える3。他の人の研究のいいところ・改善すべきところを勝手に考える。などなど、常に考えることです。 良くない例：「こういう結果がでました。」「なんでこうなったの？」「計算したらそうなりました。」「なんで&amp;hellip;(終)」 良い例：「こういう結果がでました。」「なんでこうなったの？」「Klein-Nishina の影響で、こうなりました。」「なるほど。でも、それだったら&amp;hellip;(続)」 なぜその結果が得られたのか。立ち止まって、考えましょう。 考えることを放棄して、他人任せにしてはいけないのです。 間違ってもいい。間違わない人なんていません。人と議論して、考えることで、正解に近づいていける。はず。  書類の準備について  学振などの重要書類は、締切の２週間前には仕上げておく。 締切直前に申請書類を回覧しても、  他の人が読めない。→コメントも取り込めない。→審査員の気持ちになって読み直す時間もない。→クォリティが低い。→採用率下がる。   余裕をもって申請書類を回覧すると、  他の人が読める。→コメントも取り込める。→審査員の気持ちになって読み直せる。→クォリティが高くなる。→採用率上がる。   僕は休日に仕事しないので、金曜夜に書類を持ってきても、月曜以降にしか読めません。  戦力の分散投資のすすめ (PD以上)  リスクヘッジを取る。一つの分野だけに集中していると、その分野でトップにならないといけない。容易ではない。職が出るかも、時の運次第。 観測プロジェクトと深く関わっている理論家の場合、想定通りプロジェクトが進まなかったら、一本槍の理論家はどうしますか？ 大学院生のときは、自分の研究分野で足を固めることが大事かと思います。国際会議で招待講演に呼ばれるぐらいになるのが理想。 しかし、PD になったら、分野の幅を広げてみる。他のことにも挑戦してみる。 物理は一緒。天文学の面白いところは広範な物理の知識が必要なことです。逆に言えば、天文学の中で分野を変えるのは可能ということです。  論文執筆について   東大・祖父江さんの 「論文：千年残る究極のプレゼン道」は必読。
+  研究者の最低限の仕事は論文を書くこと。
+  論文を書くことは当たり前。</description>
+    </item>
+    
+    <item>
+      <title>発表リスト</title>
+      <link>http://astro-osaka.jp/inoue/page/talk/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>yinoue_at_astro-osaka.jp (Yoshiyuki Inoue)</author>
+      <guid>http://astro-osaka.jp/inoue/page/talk/</guid>
+      <description>Previous Talks: Before 2020
+2021 Title: &#34;Cosmological aspects of high energy astrophysics&#34;  Date: 2021/01/18-22 Place: NTHU Astronomy Winter School, zoom and Hsinchu, Taiwan Presentation: Lecture   Title: &#34;Unveiling the coronal magnetic activity of supermassive black holes with ALMA&#34;  Date: 2021/01/05-07 Place: ALMA/45m/ASTE Users Meeting 2020, zoom Presentation: Talk    2020 Title: &#34;Coronal Magnetic Activity in nearby Active Supermassive Black Holes&#34;  Date: 2020/12/18 Place: ICRR Seminar, zoom Presentation: Talk   Title: &#34;</description>
+    </item>
+    
+    <item>
+      <title>研究紹介</title>
+      <link>http://astro-osaka.jp/inoue/page/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>yinoue_at_astro-osaka.jp (Yoshiyuki Inoue)</author>
+      <guid>http://astro-osaka.jp/inoue/page/research/</guid>
+      <description>研究スタイル 私は理論・観測の手段を問わずに研究を進めています。興味があれば何でもやってみようという研究スタンスです1。
+主な研究対象  ブラックホール天体  天体現象としては、ブラックホール天体が好きです。ブラックホール天体といっても原始ブラックホールから巨大ブラックホール、降着円盤やジェットなど様々な研究テーマが挙げられますが、基本的にブラックホール関係は天体物理現象であれば、どの分野にも興味があります。
+ MeV ガンマ線天文学  重力波観測も可能となった現代天文学ですが、MeVガンマ線領域はその観測の窓が閉ざされています。そこで、MeVガンマ線天文学を切り拓くため、Gamma-Ray and AntiMatter Survey (GRAMS) 実験を推進しています。GRAMS は MeV ガンマ線だけでなく反粒子検出によるダークマター間接探索も行う実験計画です。
+詳しい研究内容は論文リストなどを参照してください。
+  正直なところ、理論予測を行うと、(自分で)観測的に検証したくなります。&amp;#160;&amp;#x21a9;&amp;#xfe0e;
+   </description>
+    </item>
+    
+    <item>
+      <title>自己紹介</title>
+      <link>http://astro-osaka.jp/inoue/page/profile/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>yinoue_at_astro-osaka.jp (Yoshiyuki Inoue)</author>
+      <guid>http://astro-osaka.jp/inoue/page/profile/</guid>
+      <description>名前: 井上　芳幸
+Email: yinoue_at_astro-osaka.jp
+電話番号: +81-6-6850-5484
+生年月日:	1985年2月1日
+国籍:	日本
+住所: 〒560-0043 大阪府豊中市待兼山町1-1 大阪大学 大学院 理学研究科 宇宙地球科学専攻
+実験プロジェクト: CTA (2010-), Fermi (2012-), Hitomi (2012-), NuSTAR (2012-2014), MAGIC (2019-), GRAMS (2019-)
+主な研究分野 高エネルギー天体物理学、ブラックホール天体、活動銀河核、相対論的ジェット、宇宙背景放射
+履歴  博士 (理学), 物理学・宇宙物理学専攻, 京都大学, 2012年3月 修士 (理学), 物理学・宇宙物理学専攻, 京都大学, 2009年3月 学士 (理学), 物理学・宇宙物理学専攻, 京都大学, 2007年3月 高槻高等学校, 2003年3月  職歴  大阪大学大学院理学研究科 准教授 (2020年9月16日〜現在) 理化学研究所数理創造プログラム	上級研究員 (2017年11月～2020年9月15日) JAXA国際トップヤングフェロー、宇宙航空研究開発機構/宇宙科学研究所（2014年2月～2017年10月) 日本学術振興会海外研究員、KIPAC/SLAC国立加速器研究所/スタンフォード大学 (2012年4月～2014年1月) 日本学術振興会特別研究員、京都大学（2009年4月～2012年3月)  兼務  客員主管研究員, 理化学研究所数理創造プログラム (09/2020-) 客員科学研究員, Kavli IPMU (07/2018-)  受賞歴  2017年度日本天文学会研究奨励賞  助成金等  2021年度 ALMA共同科学研究事業 (PI), (A)モデル： 1 PD + ¥1,000,000 (for 3 yrs), FY2021-2023</description>
+    </item>
+    
+    <item>
+      <title>論文リスト</title>
+      <link>http://astro-osaka.jp/inoue/page/publication/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>yinoue_at_astro-osaka.jp (Yoshiyuki Inoue)</author>
+      <guid>http://astro-osaka.jp/inoue/page/publication/</guid>
+      <description>List of Papers NASA/ADS  All Papers First Author Papers  Observational Proposals (Not Complete) PI programs Unveiling Local Metallicity Environment of X-ray Binaries in M 51
+PI: Yoshiyuki Inoue, Seimei 2020A, 3 nights Search for time variability in coronal syncrotron emission in a nearby Seyfert galaxy
+PI: Yoshiyuki Inoue, ALMA Cycle-7 Unveiling Local Metallicity Environment of X-ray Binaries in M 33
+PI: Yoshiyuki Inoue, Seimei 2019B, 4 nights Unveiling Local Metallicity Environment of X-ray Binaries in M 51</description>
+    </item>
+    
+  </channel>
+</rss>

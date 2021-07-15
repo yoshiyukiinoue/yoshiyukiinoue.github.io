@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>lecture on Yoshiyuki Inoue</title>
+    <link>http://ithems-members.riken.jp/inoue/tags/lecture/</link>
+    <description>Recent content in lecture on Yoshiyuki Inoue</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>yoshiyuki.inoue_at_riken.jp (Yoshiyuki Inoue)</managingEditor>
+    <webMaster>yoshiyuki.inoue_at_riken.jp (Yoshiyuki Inoue)</webMaster>
+    <lastBuildDate>Wed, 22 Apr 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://ithems-members.riken.jp/inoue/tags/lecture/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A lecture talk at University of Tokyo</title>
+      <link>http://ithems-members.riken.jp/inoue/post/2020-04-22-lecture/</link>
+      <pubDate>Wed, 22 Apr 2020 00:00:00 +0000</pubDate>
+      <author>yoshiyuki.inoue_at_riken.jp (Yoshiyuki Inoue)</author>
+      <guid>http://ithems-members.riken.jp/inoue/post/2020-04-22-lecture/</guid>
+      <description>東大駒場の2020年度学術フロンティア講義「数理科学の研究フロンティア：宇宙，物質，生命，情報」において、「ブラックホールを通して紐解く宇宙の歴史」というタイトルで講義をしました。スライドはこちらから。</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,89 @@
+
+DefaultContentLanguage = "ja"
+baseurl = "http://astro-osaka.jp/inoue/"
+title = "Yoshiyuki Inoue"
+theme = "beautifulhugo"
+metaDataFormat = "yaml"
+pygmentsStyle = "trac"
+pygmentsUseClasses = true
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+
+
+[languages]
+
+  [languages.ja]
+    contentDir = "content/ja" # Japanese
+    languageName = "日本語"
+    dateFormat = "2006年01月02日"
+    weight = 1
+
+
+[Params]
+  mainSections = ["post","posts"]
+  commit = false
+  rss = true
+  comments = true
+  readingTime = true
+  wordCount = true
+  useHLJS = true
+  socialShare = true
+  delayDisqus = true
+  showRelatedPosts = true
+
+  [[Params.bigimg]]
+    src = "img/Fermi_5_year_small.jpg"
+    desc = "Credit: NASA/DOE/Fermi LAT Collaboration"
+  [[Params.bigimg]]
+    src = "img/BHcorona.jpg"
+    desc = "AGN Corona adapted from Inoue & Doi 2018"
+  [[Params.bigimg]]
+    src = "img/hubble_M51.jpg"
+    desc = "Credit: NASA, ESA, S. Beckwith (STScI), and The Hubble Heritage Team (STScI/AURA)"
+  [[Params.bigimg]]
+    src = "img/BHcorona.jpg"
+    desc = "AGN Corona adopted from Inoue & Doi 2018"
+
+[Author]
+  name = "Yoshiyuki Inoue"
+  website = "http://astro-osaka.jp/inoue/"
+  email = "yinoue_at_astro-osaka.jp"
+  #github = "yinoue8521"
+  #twitter = "username"
+  #stackoverflow = "users/13423124/yinoue"
+  #instagram = "username"
+
+[[menu.main]]
+    name = "About"
+    url = ""
+    weight = 1
+
+[[menu.main]]
+    name = "Profile"
+    url = "page/profile/"
+    weight = 2
+
+[[menu.main]]
+    name = "Research"
+    url = "page/research/"
+    weight = 3
+    
+[[menu.main]]
+    name = "For Students"
+    url = "page/forstudents/"
+    weight = 3
+
+[[menu.main]]
+    name = "Publication"
+    url = "page/publication/"
+    weight = 4
+
+[[menu.main]]
+    name = "Talks"
+    url = "page/talk/"
+    weight = 5
+
+[[menu.main]]
+    name = "Downloads"
+    url = "page/download/"
+    weight = 6
