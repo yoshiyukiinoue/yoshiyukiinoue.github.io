@@ -2,63 +2,63 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Yoshiyuki Inoue</title>
-    <link>https://github.com/yoshiyukiinoue/web/tags/</link>
+    <link>https://yoshiyukiinoue.github.io/tags/</link>
     <description>Recent content in Tags on Yoshiyuki Inoue</description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>yinoue_at_astro-osaka.jp (Yoshiyuki Inoue)</managingEditor>
     <webMaster>yinoue_at_astro-osaka.jp (Yoshiyuki Inoue)</webMaster>
-    <lastBuildDate>Wed, 19 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://github.com/yoshiyukiinoue/web/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 19 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://yoshiyukiinoue.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>research</title>
-      <link>https://github.com/yoshiyukiinoue/web/tags/research/</link>
+      <link>https://yoshiyukiinoue.github.io/tags/research/</link>
       <pubDate>Wed, 19 May 2021 00:00:00 +0000</pubDate>
       <author>yinoue_at_astro-osaka.jp (Yoshiyuki Inoue)</author>
-      <guid>https://github.com/yoshiyukiinoue/web/tags/research/</guid>
+      <guid>https://yoshiyukiinoue.github.io/tags/research/</guid>
       <description></description>
     </item>
     
     <item>
       <title>people</title>
-      <link>https://github.com/yoshiyukiinoue/web/tags/people/</link>
+      <link>https://yoshiyukiinoue.github.io/tags/people/</link>
       <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
       <author>yinoue_at_astro-osaka.jp (Yoshiyuki Inoue)</author>
-      <guid>https://github.com/yoshiyukiinoue/web/tags/people/</guid>
+      <guid>https://yoshiyukiinoue.github.io/tags/people/</guid>
       <description></description>
     </item>
     
     <item>
       <title>job</title>
-      <link>https://github.com/yoshiyukiinoue/web/tags/job/</link>
+      <link>https://yoshiyukiinoue.github.io/tags/job/</link>
       <pubDate>Mon, 05 Oct 2020 00:00:00 +0000</pubDate>
       <author>yinoue_at_astro-osaka.jp (Yoshiyuki Inoue)</author>
-      <guid>https://github.com/yoshiyukiinoue/web/tags/job/</guid>
+      <guid>https://yoshiyukiinoue.github.io/tags/job/</guid>
       <description></description>
     </item>
     
     <item>
       <title>lecture</title>
-      <link>https://github.com/yoshiyukiinoue/web/tags/lecture/</link>
+      <link>https://yoshiyukiinoue.github.io/tags/lecture/</link>
       <pubDate>Sat, 22 Aug 2020 00:00:00 +0000</pubDate>
       <author>yinoue_at_astro-osaka.jp (Yoshiyuki Inoue)</author>
-      <guid>https://github.com/yoshiyukiinoue/web/tags/lecture/</guid>
+      <guid>https://yoshiyukiinoue.github.io/tags/lecture/</guid>
       <description></description>
     </item>
     
     <item>
       <title>outreach</title>
-      <link>https://github.com/yoshiyukiinoue/web/tags/outreach/</link>
+      <link>https://yoshiyukiinoue.github.io/tags/outreach/</link>
       <pubDate>Sat, 22 Aug 2020 00:00:00 +0000</pubDate>
       <author>yinoue_at_astro-osaka.jp (Yoshiyuki Inoue)</author>
-      <guid>https://github.com/yoshiyukiinoue/web/tags/outreach/</guid>
+      <guid>https://yoshiyukiinoue.github.io/tags/outreach/</guid>
       <description></description>
     </item>
     
     <item>
       <title>misc</title>
-      <link>https://github.com/yoshiyukiinoue/web/tags/misc/</link>
+      <link>https://yoshiyukiinoue.github.io/tags/misc/</link>
       <pubDate>Wed, 27 May 2020 00:00:00 +0000</pubDate>
       <author>yinoue_at_astro-osaka.jp (Yoshiyuki Inoue)</author>
-      <guid>https://github.com/yoshiyukiinoue/web/tags/misc/</guid>
+      <guid>https://yoshiyukiinoue.github.io/tags/misc/</guid>
       <description></description>
     </item>
     

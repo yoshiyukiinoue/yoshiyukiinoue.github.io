@@ -1,6 +1,6 @@
 
 DefaultContentLanguage = "ja"
-baseurl = "https://github.com/yoshiyukiinoue/web/"
+baseurl = "https://yoshiyukiinoue.github.io"
 title = "Yoshiyuki Inoue"
 publishDir = "docs"
 canonifyurls = true
