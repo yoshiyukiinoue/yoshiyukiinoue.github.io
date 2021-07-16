@@ -2,6 +2,7 @@
 DefaultContentLanguage = "ja"
 baseurl = "https://github.com/yoshiyukiinoue/web/"
 title = "Yoshiyuki Inoue"
+publishDir = "docs"
 theme = "beautifulhugo"
 metaDataFormat = "yaml"
 pygmentsStyle = "trac"
