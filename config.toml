@@ -1,6 +1,6 @@
 
 DefaultContentLanguage = "ja"
-baseurl = "http://astro-osaka.jp/inoue/"
+baseurl = "https://github.com/yoshiyukiinoue/web/"
 title = "Yoshiyuki Inoue"
 theme = "beautifulhugo"
 metaDataFormat = "yaml"
