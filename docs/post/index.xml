@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Yoshiyuki Inoue</title>
+    <link>https://github.com/yoshiyukiinoue/web/post/</link>
+    <description>Recent content in Posts on Yoshiyuki Inoue</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>yinoue_at_astro-osaka.jp (Yoshiyuki Inoue)</managingEditor>
+    <webMaster>yinoue_at_astro-osaka.jp (Yoshiyuki Inoue)</webMaster>
+    <lastBuildDate>Wed, 19 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://github.com/yoshiyukiinoue/web/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Our paper on cross-match between the latest Swift-BAT and Fermi-LAT catalogs is accepted by ApJ.</title>
+      <link>https://github.com/yoshiyukiinoue/web/post/2021-05-19-swift-fermi/</link>
+      <pubDate>Wed, 19 May 2021 00:00:00 +0000</pubDate>
+      <author>yinoue_at_astro-osaka.jp (Yoshiyuki Inoue)</author>
+      <guid>https://github.com/yoshiyukiinoue/web/post/2021-05-19-swift-fermi/</guid>
+      <description>Title: Cross-match between the latest Swift-BAT and Fermi-LAT catalogs.
+Authors: Naomi Tsuji, Hiroki Yoneda, Yoshiyuki Inoue, Tsuguo Aramaki, Georgia Karagiorgi, Reshmi Mukherjee, Hirokazu Odaka
+We report the results of a cross-match study between the hard X-ray and GeV gamma-ray catalogs, by making use of the latest 105-month Swift-BAT and 10-yr Fermi-LAT catalogs, respectively. The spatial cross-matching between the two catalogs results in the matching of 132 point-like sources, including ~5% of false-match sources.</description>
+    </item>
+    
+    <item>
+      <title>Our review article on the high energy aspect of AGN coronae is accepted by Galaxies.</title>
+      <link>https://github.com/yoshiyukiinoue/web/post/2021-05-08-gamma-ray-neutrino-agn-corona/</link>
+      <pubDate>Sat, 08 May 2021 00:00:00 +0000</pubDate>
+      <author>yinoue_at_astro-osaka.jp (Yoshiyuki Inoue)</author>
+      <guid>https://github.com/yoshiyukiinoue/web/post/2021-05-08-gamma-ray-neutrino-agn-corona/</guid>
+      <description>Title: Gamma-ray and Neutrino Signals from Accretion Disk Coronae of Active Galactic Nuclei.
+Authors: Yoshiyuki Inoue, Dmitry Khangulyan, Akihiro Doi
+To explain X-ray spectra of active galactic nuclei (AGN), non-thermal activity in AGN coronae such as pair cascade models has been extensively discussed in the past literature. Although X-ray and gamma-ray observations in the 1990s disfavored such pair cascade models, recent millimeter-wave observations of nearby Seyferts establish the existence of weak non-thermal coronal activity.</description>
+    </item>
+    
+    <item>
+      <title>Dr. Tomonari Michiyama joined our group.</title>
+      <link>https://github.com/yoshiyukiinoue/web/post/2021-04-01-dr.tomonari-michiyama/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <author>yinoue_at_astro-osaka.jp (Yoshiyuki Inoue)</author>
+      <guid>https://github.com/yoshiyukiinoue/web/post/2021-04-01-dr.tomonari-michiyama/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Our paper on the PBH abundance using Leo T is accepted by ApJL.</title>
+      <link>https://github.com/yoshiyukiinoue/web/post/2021-01-15-pbh-leot/</link>
+      <pubDate>Fri, 15 Jan 2021 00:00:00 +0000</pubDate>
+      <author>yinoue_at_astro-osaka.jp (Yoshiyuki Inoue)</author>
+      <guid>https://github.com/yoshiyukiinoue/web/post/2021-01-15-pbh-leot/</guid>
+      <description>Title: Constraining Primordial Black Holes with Dwarf Galaxy Heating.
+Authors: Philip Lu, Volodymyr Takhistov, Graciela B. Gelmini, Kohei Hayashi, Yoshiyuki Inoue, Alexander Kusenko
+Black holes formed in the early universe, prior to the formation of stars, can exist as dark matter and also contribute to the black hole merger events observed in gravitational waves. We set a new limit on the abundance of primordial black holes (PBHs) by considering interactions of PBHs with the interstellar medium, which result in the heating of gas.</description>
+    </item>
+    
+    <item>
+      <title>Our paper on the origin of Galactic spurs is accepted by ApJ.</title>
+      <link>https://github.com/yoshiyukiinoue/web/post/2021-01-07-galactic-spur/</link>
+      <pubDate>Mon, 11 Jan 2021 00:00:00 +0000</pubDate>
+      <author>yinoue_at_astro-osaka.jp (Yoshiyuki Inoue)</author>
+      <guid>https://github.com/yoshiyukiinoue/web/post/2021-01-07-galactic-spur/</guid>
+      <description>Title: Origin of Galactic Spurs: New Insight from Radio/X-ray All-sky Maps.
+Authors: Jun Kataoka, Marino Yamamoto, Yuki Nakamura, Soichiro Ito, Yoshiaki Sofue, Yoshiyuki Inoue, Takeshi Nakamori, Tomonori Totani
+In this study, we analyze giant Galactic spurs seen in both radio and X-ray all-sky maps to reveal their origins. We discuss two types of giant spurs: one is the brightest diffuse emission near the map&amp;rsquo;s center, which is likely to be related to Fermi bubbles (NPSs/SPSs, north/south polar spurs, respectively), and the other is weaker spurs that coincide positionally with local spiral arms in our Galaxy (LAS, local arm spur).</description>
+    </item>
+    
+    <item>
+      <title>Our paper on the optical follow-up of TXS 0506&#43;056 is accepted by PASJ.</title>
+      <link>https://github.com/yoshiyukiinoue/web/post/2020-11-04-txs0506&#43;056/</link>
+      <pubDate>Wed, 04 Nov 2020 00:00:00 +0000</pubDate>
+      <author>yinoue_at_astro-osaka.jp (Yoshiyuki Inoue)</author>
+      <guid>https://github.com/yoshiyukiinoue/web/post/2020-11-04-txs0506&#43;056/</guid>
+      <description>Title: Follow-up Observations for IceCube-170922A: Detection of Rapid Near-Infrared Variability and Intensive Monitoring of TXS 0506+056.
+Authors: Tomoki Morokuma, Yousuke Utsumi, Kouji Ohta, Masayuki Yamanaka, Koji S. Kawabata, Yoshiyuki Inoue, Masaomi Tanaka, Michitoshi Yoshida, Ryosuke Itoh, Mahito Sasada, Nozomu Tominaga, Hiroki Mori, Miho Kawabata, Tatsuya Nakaoka, Maiko Chogi, Taisei Abe, Ruochen Huang, Naoki Kawahara, Hiroki Kimura, Hiroki Nagashima, Kengo Takagi, Yuina Yamazaki, Wei Liu, Ryou Ohsawa, Shigeyuki Sako, Katsuhiro L. Murata, Kumiko Morihana, Christina K.</description>
+    </item>
+    
+    <item>
+      <title>Postdoctoral Researcher Position at Osaka University</title>
+      <link>https://github.com/yoshiyukiinoue/web/post/2020-10-05-alma_pd/</link>
+      <pubDate>Mon, 05 Oct 2020 00:00:00 +0000</pubDate>
+      <author>yinoue_at_astro-osaka.jp (Yoshiyuki Inoue)</author>
+      <guid>https://github.com/yoshiyukiinoue/web/post/2020-10-05-alma_pd/</guid>
+      <description>Now I am seeking a postdoctoral researcher at Osaka University. The candidate will work on the study of AGN coronal emission using theory, X-ray data, and radio (ALMA) data.
+The position is posted here: https://jobregister.aas.org/ad/c9248b30
+Application Deadline: Friday, November 13, 2020
+活動銀河核コロナの研究に関する特任研究員(理論 and/or 観測)を一名、公募しております。 応募締切は令和2年11月13日(金) 日本時間 15:00必着です。 国立天文台で雇用され、大阪大学(豊中キャンパス)に派遣される形になります。
+詳しくはこちらをご参照ください。 https://jobregister.nao.ac.jp/ja-JP/jobVacancyList https://www.nao.ac.jp/contents/job-vacancy/job-20201012-alma-osaka.pdf
+興味のある方々からの積極的なご応募をお待ちしております。
+質問等あれば、お気軽にお問い合わせください。</description>
+    </item>
+    
+    <item>
+      <title>I join the theoretical astrophysics group at Osaka University as an associate professor</title>
+      <link>https://github.com/yoshiyukiinoue/web/post/2020-09-16-osaka/</link>
+      <pubDate>Wed, 16 Sep 2020 00:00:00 +0000</pubDate>
+      <author>yinoue_at_astro-osaka.jp (Yoshiyuki Inoue)</author>
+      <guid>https://github.com/yoshiyukiinoue/web/post/2020-09-16-osaka/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Our paper on the kiloparsec jet of Centaurus A is accepted by ApJL.</title>
+      <link>https://github.com/yoshiyukiinoue/web/post/2020-08-26-cena/</link>
+      <pubDate>Wed, 26 Aug 2020 00:00:00 +0000</pubDate>
+      <author>yinoue_at_astro-osaka.jp (Yoshiyuki Inoue)</author>
+      <guid>https://github.com/yoshiyukiinoue/web/post/2020-08-26-cena/</guid>
+      <description>Title: Physical Conditions and Particle Acceleration in the Kiloparsec Jet of Centaurus A.
+Authors: Takahiro Sudoh, Dmitry Khangulyan, Yoshiyuki Inoue
+The non-thermal emission from the kiloparsec-scale jet of Centaurus~A exhibits two notable features, bright diffuse emission and many compact knots, which have been intensively studied in X-ray and radio observations. H.E.S.S. recently reported that the very-high-energy gamma-ray emission from this object is extended along the jet direction beyond a kiloparsec from the core.</description>
+    </item>
+    
+    <item>
+      <title>A public talk at the Asahi Culture Center in Shinjuku</title>
+      <link>https://github.com/yoshiyukiinoue/web/post/2020-08-22-asahi_culture/</link>
+      <pubDate>Sat, 22 Aug 2020 00:00:00 +0000</pubDate>
+      <author>yinoue_at_astro-osaka.jp (Yoshiyuki Inoue)</author>
+      <guid>https://github.com/yoshiyukiinoue/web/post/2020-08-22-asahi_culture/</guid>
+      <description>朝日カルチャーセンター新宿教室の「宇宙の爆発現象シリーズ」第4回において、「巨大ブラックホールを通して紐解く宇宙の歴史」というタイトルで話しました。</description>
+    </item>
+    
+    <item>
+      <title>Our new blazar catalog paper is accepted by ApJ.</title>
+      <link>https://github.com/yoshiyukiinoue/web/post/2020-07-29-bros/</link>
+      <pubDate>Wed, 29 Jul 2020 00:00:00 +0000</pubDate>
+      <author>yinoue_at_astro-osaka.jp (Yoshiyuki Inoue)</author>
+      <guid>https://github.com/yoshiyukiinoue/web/post/2020-07-29-bros/</guid>
+      <description>Title: Blazar Radio and Optical Survey (BROS): A catalog of blazar candidates showing flat radio spectrum and their optical identification in Pan-STARRS1 Surveys.
+Authors: Ryosuke Itoh, Yousuke Utsumi, Yoshiyuki Inoue, Kouji Ohta, Akihiro Doi, Tomoki Morokuma, Koji S. Kawabata, Yasuyuki T. Tanaka
+Utilizing the latest and the most sensitive radio and optical catalogs, we completed a new blazar candidate catalog, Blazar Radio and Optical Survey (BROS), which includes 88,211 sources located at declination $\delta&amp;gt;−40^\circ$ and outside the galactic plane ($|b|&amp;gt;10^\circ$).</description>
+    </item>
+    
+    <item>
+      <title>Renovate my website</title>
+      <link>https://github.com/yoshiyukiinoue/web/post/2020-05-27-renovation-webpage/</link>
+      <pubDate>Wed, 27 May 2020 00:00:00 +0000</pubDate>
+      <author>yinoue_at_astro-osaka.jp (Yoshiyuki Inoue)</author>
+      <guid>https://github.com/yoshiyukiinoue/web/post/2020-05-27-renovation-webpage/</guid>
+      <description>I renovate my website. Now it relys on Hugo. I adopt the Beautiful Hugo as the theme.</description>
+    </item>
+    
+    <item>
+      <title>Our paper on the evolution of FSRQs is accepted by ApJ.</title>
+      <link>https://github.com/yoshiyukiinoue/web/post/2020-05-06-fsrq-xlf/</link>
+      <pubDate>Wed, 06 May 2020 00:00:00 +0000</pubDate>
+      <author>yinoue_at_astro-osaka.jp (Yoshiyuki Inoue)</author>
+      <guid>https://github.com/yoshiyukiinoue/web/post/2020-05-06-fsrq-xlf/</guid>
+      <description>Title: Cosmological Evolution of FSRQs based on the Swift/BAT 105-month Catalog and Their Contribution to the Cosmic MeV Gamma-ray Background Radiation.
+Authors: Koyo Toda, Yasushi Fukazawa, Yoshiyuki Inoue
+We present a new X-ray luminosity function of flat-spectrum radio quasars (FSRQs) utilizing the latest Swift/BAT 105-month X-ray source catalog. Contrary to previous studies of FSRQs in the X-ray band, using the luminosity-dependent density evolution model, we find that FSRQs show evolutionary peaks at z∼1−2 depending on luminosities.</description>
+    </item>
+    
+    <item>
+      <title>A lecture talk at University of Tokyo</title>
+      <link>https://github.com/yoshiyukiinoue/web/post/2020-04-22-lecture/</link>
+      <pubDate>Wed, 22 Apr 2020 00:00:00 +0000</pubDate>
+      <author>yinoue_at_astro-osaka.jp (Yoshiyuki Inoue)</author>
+      <guid>https://github.com/yoshiyukiinoue/web/post/2020-04-22-lecture/</guid>
+      <description>東大駒場の2020年度学術フロンティア講義「数理科学の研究フロンティア：宇宙，物質，生命，情報」において、「ブラックホールを通して紐解く宇宙の歴史」というタイトルで講義をしました。スライドはこちらから。</description>
+    </item>
+    
+    <item>
+      <title>Dr. Naomi Tsuji joined our group.</title>
+      <link>https://github.com/yoshiyukiinoue/web/post/2020-04-01-dr.naomi-tsuji/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <author>yinoue_at_astro-osaka.jp (Yoshiyuki Inoue)</author>
+      <guid>https://github.com/yoshiyukiinoue/web/post/2020-04-01-dr.naomi-tsuji/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
