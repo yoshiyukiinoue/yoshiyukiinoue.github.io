@@ -1,9 +1,7 @@
 
 DefaultContentLanguage = "ja"
-baseurl = "https://yoshiyukiinoue.github.io"
+baseurl = "https://yoshiyukiinoue.github.io/"
 title = "Yoshiyuki Inoue"
-publishDir = "docs"
-canonifyurls = true
 theme = "beautifulhugo"
 metaDataFormat = "yaml"
 pygmentsStyle = "trac"

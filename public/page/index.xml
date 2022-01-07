@@ -9,13 +9,12 @@
     <webMaster>yinoue_at_astro-osaka.jp (Yoshiyuki Inoue)</webMaster><atom:link href="https://yoshiyukiinoue.github.io/page/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://yoshiyukiinoue.github.io/page/exbcatalog/</link>
+      <link>https://yoshiyukiinoue.github.io/page/exrbcatalog/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>yinoue_at_astro-osaka.jp (Yoshiyuki Inoue)</author>
-      <guid>https://yoshiyukiinoue.github.io/page/exbcatalog/</guid>
-      <description>Extragalactic X-ray Binary Catalog Inoue &amp;amp; Yabe in prep.
-Introduction We construct a new catalog of extragalactic X-ray binaries (ExB) utilizing the latest Chandra, XMM-Newton, and Swift X-ray source catalogs by matching with the local galaxy catalogs. Our ExB catalog contains 9314 XRBs hosted by 417 galaxies, which is the largest ever XRB catalog.
-Catalog Download  Compact Object Catalog (Main Catalog)  FITS/Ascii    Table Description    Column Name Unit Note     Name_XRB  Source name   RA deg Right ascension of the source   DEC deg Declination of the source   L_X_2_10 erg/s 2-10 keV luminosity   Satellite  ID of the satellite which measured the source.</description>
+      <guid>https://yoshiyukiinoue.github.io/page/exrbcatalog/</guid>
+      <description>Extragalactic X-ray Binary Catalog Extragalactic X-ray Binary Catalog described in Inoue, Yabe, &amp;amp; Ueda 2021 PASJ
+Introduction We construct a new catalog of extragalactic X-ray binaries (XRBs) utilizing the latest Chandra, XMM-Newton, and Swift X-ray source catalogs by matching with the local galaxy catalogs. Our fiducial catalog including Chandra sources only contains 4430 XRBs hosted by 237 galaxies within ~130 Mpc. Utilizing the latest XMM-Newton, and Swift X-ray source catalog data sets, additional XRB candidates are also found resulting in 5757 XRBs hosted by 311 galaxies.</description>
     </item>
     
     <item>
@@ -25,7 +24,8 @@ Catalog Download  Compact Object Catalog (Main Catalog)  FITS/Ascii    Table Des
       <author>yinoue_at_astro-osaka.jp (Yoshiyuki Inoue)</author>
       <guid>https://yoshiyukiinoue.github.io/page/download/</guid>
       <description>Data from our papers Please read each paper for details. To download numerical data, please click the link right next to the &amp;ldquo;Data File:&amp;rdquo;. If you have any queries and/or need other data, please contact me freely.
- Extragalactic Background Light model: (Inoue et al. 2013)  Model data of EBL intensity (z=0), Proper photon density, and Gamma-ray Opacity Data File: EBL_data_yinoue.tar.gz   A bound on primordial black holes density: (Inoue &amp;amp; Kusenko 2017)  The upper bound on the PBH mass fraction based on luminosity function of XRBs Data File: Limit_Omega_PBH_IK17.</description>
+  Extragalactic Background Light model: (Inoue et al. 2013)
+ Model data of EBL intensity (z=0), Proper photon density, and Gamma-ray Opacity Data File: EBL_data_yinoue.tar.gz    A bound on primordial black holes density: (Inoue &amp;amp; Kusenko 2017)</description>
     </item>
     
     <item>
@@ -61,7 +61,7 @@ Catalog Download  Compact Object Catalog (Main Catalog)  FITS/Ascii    Table Des
       <author>yinoue_at_astro-osaka.jp (Yoshiyuki Inoue)</author>
       <guid>https://yoshiyukiinoue.github.io/page/talk/</guid>
       <description>Previous Talks: Before 2020
-2021 Title: &#34;Cosmological aspects of high energy astrophysics&#34;  Date: 2021/01/18-22 Place: NTHU Astronomy Winter School, zoom and Hsinchu, Taiwan Presentation: Lecture   Title: &#34;Unveiling the coronal magnetic activity of supermassive black holes with ALMA&#34;  Date: 2021/01/05-07 Place: ALMA/45m/ASTE Users Meeting 2020, zoom Presentation: Talk    2020 Title: &#34;Coronal Magnetic Activity in nearby Active Supermassive Black Holes&#34;  Date: 2020/12/18 Place: ICRR Seminar, zoom Presentation: Talk   Title: &#34;</description>
+2021 Title: &#34;How can we find black holes&#34;  Date: 2021/03/15 Place: NTHU Astronomy Winter School, zoom Presentation: Talk (pdf)   Title: &#34;Cosmological aspects of high energy astrophysics&#34;  Date: 2021/01/18-22 Place: NTHU Astronomy Winter School, zoom and Hsinchu, Taiwan Presentation: Lecture (pdf)   Title: &#34;Unveiling the coronal magnetic activity of supermassive black holes with ALMA&#34;  Date: 2021/01/05-07 Place: ALMA/45m/ASTE Users Meeting 2020, zoom Presentation: Talk (pdf)    2020 Title: &#34;</description>
     </item>
     
     <item>

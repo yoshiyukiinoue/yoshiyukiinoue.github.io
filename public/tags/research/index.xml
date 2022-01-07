@@ -7,7 +7,18 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>yinoue_at_astro-osaka.jp (Yoshiyuki Inoue)</managingEditor>
     <webMaster>yinoue_at_astro-osaka.jp (Yoshiyuki Inoue)</webMaster>
-    <lastBuildDate>Wed, 19 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://yoshiyukiinoue.github.io/tags/research/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 03 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://yoshiyukiinoue.github.io/tags/research/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Our paper on spatial variations of magnetic field along active galactic nuclei jets on sub-pc to Mpc scales is accepted by ApJ.</title>
+      <link>https://yoshiyukiinoue.github.io/post/2021-06-03-agn-kpc/</link>
+      <pubDate>Thu, 03 Jun 2021 00:00:00 +0000</pubDate>
+      <author>yinoue_at_astro-osaka.jp (Yoshiyuki Inoue)</author>
+      <guid>https://yoshiyukiinoue.github.io/post/2021-06-03-agn-kpc/</guid>
+      <description>Title: Spatial variations of magnetic field along active galactic nuclei jets on sub-pc to Mpc scales.
+Authors: Soichiro Ito, Yoshiyuki Inoue, Jun Kataoka
+We report the systematic analysis of knots, hotspots, and lobes in 57 active galactic nuclei (AGNs) to investigate the variation of the magnetic field along with the jet from the sub-pc base to the terminus in kpc-to-Mpc scales. Expanding the number of radio/X-ray samples in \citet{2005ApJ&amp;hellip;622..797K}, we analyzed the data in 12 FR~I and 30 FR~II radio galaxies, 12 quasars, and 3 BL Lacs that contained 76 knots, 42 hotspots, and 29 radio lobes.</description>
+    </item>
+    
     <item>
       <title>Our paper on cross-match between the latest Swift-BAT and Fermi-LAT catalogs is accepted by ApJ.</title>
       <link>https://yoshiyukiinoue.github.io/post/2021-05-19-swift-fermi/</link>

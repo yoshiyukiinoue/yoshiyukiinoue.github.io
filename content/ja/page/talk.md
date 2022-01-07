@@ -10,18 +10,27 @@ comments: false
 ## 2021
 {{< rawhtml >}}
     <ol reversed> 
+    
+    <li>Title: "How can we find black holes"
+    <ul>
+        <li>Date: 2021/03/15</li>
+        <li>Place: <a href="https://www.osaka-u.ac.jp/ja/news/seminar/2021/03/8971">NTHU Astronomy Winter School</a>, zoom</li>
+        <li>Presentation: Talk (<a href='../files/talk/2021/yinoue_210315_SciSics.pdf'>pdf</a>)</li>
+    </ul>
+    </li>
+    
     <li>Title: "Cosmological aspects of high energy astrophysics"
     <ul>
         <li>Date: 2021/01/18-22</li>
         <li>Place: <a href="https://sites.google.com/gapp.nthu.edu.tw/astronomywinterschool/home">NTHU Astronomy Winter School</a>, zoom and Hsinchu, Taiwan</li>
-        <li>Presentation: Lecture</li>
+        <li>Presentation: Lecture (<a href='../files/talk/2021/yinoue_210119_NTHU.pdf'>pdf</a>)</li>
     </ul>
     </li>
     <li>Title: "Unveiling the coronal magnetic activity of supermassive black holes with ALMA"
     <ul>
         <li>Date: 2021/01/05-07</li>
         <li>Place: <a href="http://www2.nao.ac.jp/~eaarc/ALMAUM2020/">ALMA/45m/ASTE Users Meeting 2020</a>, zoom</li>
-        <li>Presentation: Talk</li>
+        <li>Presentation: Talk (<a href='../files/talk/2021/yinoue_210106_ALMA45mASTE.pdf'>pdf</a>)</li>
     </ul>
     </li>
     </ol>
@@ -34,14 +43,14 @@ comments: false
     <ul>
         <li>Date: 2020/12/18</li>
         <li>Place: <a href='http://www.icrr.u-tokyo.ac.jp/icrr_seminar/index_j.html'>ICRR Seminar</a>, zoom</li>
-        <li>Presentation: Talk</li>
+        <li>Presentation: Talk (<a href='../files/talk/2020/yinoue_201218_ICRR.pdf'>pdf</a>)</li>
     </ul>
     </li>
     <li>Title: "Future Prospects of MeV Gamma-ray Astronomy"
     <ul>
         <li>Date: 2020/12/07-10</li>
         <li>Place: <a href='http://www2.yukawa.kyoto-u.ac.jp/~crphys2020/'>Connecting high-energy astroparticle physics for origins of cosmic rays and future perspectives</a>, zoom or Kyoto</li>
-        <li>Presentation: Talk</li>
+        <li>Presentation: Talk (<a href='../files/talk/2020/yinoue_201209_Kyoto.pdf'>pdf</a>)</li>
     </ul>
     </li>
     <li>Title: "ブラックホールの探し方"
@@ -62,14 +71,14 @@ comments: false
     <ul>
         <li>Date: 2020/10/23</li>
         <li>Place: CUHK, Department of Physics Colloquium, zoom</li>
-        <li>Presentation: Talk (<a href='../files/talk/yinoue_201023_CUHK.pdf'>pdf</a>)</li>
+        <li>Presentation: Talk (<a href='../files/talk/2020/yinoue_201023_CUHK.pdf'>pdf</a>)</li>
     </ul>
     </li>
     <li>Title: "Status & Prospect of Gamma-ray Astronomy"
     <ul>
         <li>Date: 2020/09/28</li>
         <li>Place: CRC タウンミーティング, zoom</li>
-        <li>Presentation: Talk (<a href='../files/talk/yinoue_200928_CRC.pdf'>pdf</a>)</li>
+        <li>Presentation: Talk (<a href='../files/talk/2020/yinoue_200928_CRC.pdf'>pdf</a>)</li>
     </ul>
     </li>
     <li>Title: "Introduction to High Energy & Black Hole Astrophysics"
@@ -83,7 +92,7 @@ comments: false
         <ul>
             <li>Date: 2020/09/09</li>
             <li>Place: 日本天文学会2020年秋季年会, zoom</li>
-            <li>Presentation: Talk (<a href='../files/talk/yinoue_200909_ASJ.pdf'>pdf</a>)</li>
+            <li>Presentation: Talk (<a href='../files/talk/2020/yinoue_200909_ASJ.pdf'>pdf</a>)</li>
         </ul>
         </li>
         <li>Title: "巨大ブラックホールを通して紐解く宇宙の歴史"
@@ -104,14 +113,14 @@ comments: false
         <ul>
             <li>Date: 2020/04/22</li>
             <li>Place: 東京大学2020年度Ｓセメスター　学術フロンティア講義<br>「数理科学の研究フロンティア：宇宙，物質，生命，情報」</li>
-            <li>Presentation: Lecture (<a href='../files/talk/yinoue_200422_Komaba.pdf'>pdf</a>)</li>
+            <li>Presentation: Lecture (<a href='../files/talk/2020/yinoue_200422_Komaba.pdf'>pdf</a>)</li>
         </ul>
         </li>
         <li>Title: "Coronal Magnetic Activity in nearby Active Supermassive Black Holes"
         <ul>
             <li>Date: 2020/03/16</li>
             <li>Place: 日本天文学会2020年春季年会, 筑波大学</li>
-            <li>Presentation: Talk (<a href='../files/talk/yinoue_200316_ASJ.pdf'>pdf</a>)</li>
+            <li>Presentation: Talk (<a href='../files/talk/2020/yinoue_200316_ASJ.pdf'>pdf</a>)</li>
         </ul>
         </li>
         <li><s>Title: "Magnetic Activity in the Vicinity of Active Supermassive Black Holes"</s> (Cancelled)
