@@ -37,8 +37,10 @@ PI: Yoshiyuki Inoue, ALMA Cycle-4
 
 {{< rawhtml >}}
 <ol reversed>
-<li>Simultaneous X-ray and VHE gamma-ray Observation toward an Extreme Blazar Candidate Selected from a New Blazar Catalog BROS<br>
-PI: R. Itoh, MAGIC Cycle-15
+<li>Probing formation and dynamics in the extreme knot in the western jet of the microquasar SS433<br>
+PI: N. Tsuji, Chandra Cycle-23
+<li>High-resolution radio continuum observations of the knots in W50 - A PeVatron accelerator driven by SS 433's jets<br>
+PI: N. Tsuji, ALMA Cycle-8
 <li>Simultaneous X-ray and VHE gamma-ray Observation toward an Extreme Blazar Candidate Selected from a New Blazar Catalog BROS<br>
 PI: R. Itoh, MAGIC Cycle-14
 <li>Optical Follow-Up Observations for IceCube High-Energy Neutrino Sources<br>

@@ -7,9 +7,44 @@ comments: false
 
 ## Previous Talks:
 [Before 2020](../talk_before2020/)
+
+
+## 2022
+{{< rawhtml >}}
+    <ol reversed> 
+        
+    
+    <li>Title: "Unveiling the Coronal Activity in Active Galactic Nuclei with ALMA"
+    <ul>
+        <li>Date: 2022/01/18</li>
+        <li>Place: East Asia ALMA Science Workshop 2022, zoom</li>
+        <li>Presentation: Talk</li>
+    </ul>
+    </li>
+    
+    </ol>
+{{< /rawhtml >}}
+
 ## 2021
 {{< rawhtml >}}
     <ol reversed> 
+        
+    
+    <li>Title: "Coronal Magnetic Activity in nearby Active Supermassive Black Holes"
+    <ul>
+        <li>Date: 2021/12/16</li>
+        <li>Place: AP Seminar @ Kyoto University, Kyoto</li>
+        <li>Presentation: Talk (<a href='../files/talk/2021/yinoue_211216_Kyoto.pdf'>pdf</a>)</li>
+    </ul>
+    </li>
+    
+    <li>Title: "宇宙とブラックホール"
+    <ul>
+        <li>Date: 2021/12/21</li>
+        <li>Place: <a href="https://www.ssi.osaka-u.ac.jp/">Social Solution Initiative Workshop</a>, zoom</li>
+        <li>Presentation: Talk</li>
+    </ul>
+    </li>
     
     <li>Title: "How can we find black holes"
     <ul>

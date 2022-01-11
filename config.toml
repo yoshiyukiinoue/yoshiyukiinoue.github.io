@@ -60,9 +60,9 @@ publishDir = "docs"
     weight = 1
 
 [[menu.main]]
-    name = "Profile"
-    url = "page/profile/"
-    weight = 2
+    #name = "Profile"
+    #url = "page/profile/"
+    #weight = 2
 
 [[menu.main]]
     name = "Research"
@@ -70,9 +70,11 @@ publishDir = "docs"
     weight = 3
     
 [[menu.main]]
-    name = "For Students"
-    url = "page/forstudents/"
-    weight = 3
+    #name = "For Students"
+    #url = "page/forstudents/"
+    name = "Members"
+    url = "page/members/"
+    weight = 2
 
 [[menu.main]]
     name = "Publication"
