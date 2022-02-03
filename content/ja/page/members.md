@@ -7,10 +7,10 @@ comments: false
 |Name|Position|
 | ---- | ---- |
 | [Yoshiyuki Inoue](../../page/profile/) | Associate Professor|
-| [Naomi Tsuji](https://ithems.riken.jp/en/members/naomi-tsuji) | RIKEN iTHEMS PD|
 | [Tomonari Michiyama](https://tomonarimitiyama.wixsite.com/mitimomo) | ALMA PD |
-| Kaoru Yanagisawa  |  M1  |
+| [Naomi Tsuji](https://ithems.riken.jp/en/members/naomi-tsuji) | RIKEN iTHEMS PD|
 | Tomoya Yamada  |  B4  |
+| Kaoru Yanagisawa  |  M1  |
 
 # Alumni
 
