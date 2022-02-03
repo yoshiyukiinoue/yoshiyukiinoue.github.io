@@ -55,7 +55,7 @@ comments: false
 * JSPS Research Fellowship DC1, ¥2,800,000, FY2009-2011  
 	「GLAST時代の宇宙X線ガンマ線背景放射と活動銀河中心核」
  
- # Committee (書いて良さそうなもの)
+ # Committee
  - 理論天文学宇宙物理学懇談会運営委員会委員 (2021-2022)
  - 宇宙線研究者会議 (CRC) 実行委員会委員 (2022)
  
