@@ -7,7 +7,18 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>yinoue_at_astro-osaka.jp (Yoshiyuki Inoue)</managingEditor>
     <webMaster>yinoue_at_astro-osaka.jp (Yoshiyuki Inoue)</webMaster>
-    <lastBuildDate>Thu, 03 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://yoshiyukiinoue.github.io/tags/research/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 26 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://yoshiyukiinoue.github.io/tags/research/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Our paper on the contribution of radio galaxies to the cosmic gamma-ray background radiation is accepted by ApJ.</title>
+      <link>https://yoshiyukiinoue.github.io/post/2022-04-26-rg-cgb/</link>
+      <pubDate>Tue, 26 Apr 2022 00:00:00 +0000</pubDate>
+      <author>yinoue_at_astro-osaka.jp (Yoshiyuki Inoue)</author>
+      <guid>https://yoshiyukiinoue.github.io/post/2022-04-26-rg-cgb/</guid>
+      <description>Title: High energy emission component, population, and contribution to the extragalactic gamma-ray background of gamma-ray emitting radio galaxies.
+Authors: Yasushi Fukazawa, Hiroto Matake, Taishu Kayanoki, Yoshiyuki Inoue, Justin Finke
+In this study, we systematically studied the X-ray to GeV gamma-ray spectra of 61 {\it Fermi} Large Area Telescope (LAT) detected radio galaxies. We found an anticorrelation between peak frequency and peak luminosity in the high-energy spectral component of radio galaxies, similar to blazars.</description>
+    </item>
+    
     <item>
       <title>Our paper on interstellar gas heating by PBHs is accepted by JCAP.</title>
       <link>https://yoshiyukiinoue.github.io/post/2022-02-03-pbh-heating/</link>

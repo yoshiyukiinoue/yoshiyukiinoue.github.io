@@ -77,16 +77,21 @@ publishDir = "docs"
     weight = 2
 
 [[menu.main]]
-    name = "Publication"
-    url = "page/publication/"
+    name = "Lecture"
+    url = "page/lecture/"
     weight = 4
 
 [[menu.main]]
-    name = "Talks"
-    url = "page/talk/"
+    name = "Publication"
+    url = "page/publication/"
     weight = 5
 
 [[menu.main]]
+    name = "Talk"
+    url = "page/talk/"
+    weight = 6
+    
+[[menu.main]]
     name = "Downloads"
     url = "page/download/"
-    weight = 6
+    weight = 7
