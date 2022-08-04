@@ -9,7 +9,7 @@ comments: false
         
 ## NASA/ADS
  * [All Papers](https://ui.adsabs.harvard.edu/public-libraries/r0HdPWXHQKOV8kUwuZDq5Q)
- * [First Author Papers](https://ui.adsabs.harvard.edu/public-libraries/y6gd-hluToy04aYaA8e7RA")
+ * [First Author Papers](https://ui.adsabs.harvard.edu/public-libraries/y6gd-hluToy04aYaA8e7RA)
 
 # Observational Proposals (Not Complete)
 
