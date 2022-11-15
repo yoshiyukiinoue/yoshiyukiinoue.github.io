@@ -10,6 +10,8 @@ pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 publishDir = "docs"
 
+[markup.goldmark.renderer]
+unsafe= true
 
 [languages]
 
