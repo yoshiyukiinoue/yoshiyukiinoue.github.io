@@ -8,6 +8,7 @@ comments: false
 | ---- | ---- |
 | [Yoshiyuki Inoue](../../page/profile/) | Associate Professor|
 | [Tomonari Michiyama](https://tomonarimitiyama.wixsite.com/mitimomo) | ALMA PD |
+| [Ellis R. Owen](https://www.ellisowen.org/) | JSPS Fellow |
 | Tomoya Yamada  |  M1  |
 | Kaoru Yanagisawa  |  M2  |
 

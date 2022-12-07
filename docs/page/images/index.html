@@ -223,7 +223,7 @@
 {{ with .Site.GetPage &ldquo;section&rdquo; &ldquo;media&rdquo; }}
 {{ $original := .Resources.GetByPrefix  $imagename }}
 {{ with ($original.Resize $options) }}
-<!-- raw HTML omitted -->
+<img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}">
 {{ end }}
 {{ end }}</p>
 
