@@ -74,8 +74,8 @@ unsafe= true
 [[menu.main]]
     #name = "For Students"
     #url = "page/forstudents/"
-    name = "Members"
-    url = "page/members/"
+    name = "Profile"
+    url = "page/profile/"
     weight = 2
 
 [[menu.main]]
