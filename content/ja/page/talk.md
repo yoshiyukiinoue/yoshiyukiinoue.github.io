@@ -11,7 +11,37 @@ comments: false
 ## 2023
 {{< rawhtml >}}
     <ol reversed> 
+        
+    <li>Title: "High-Energy Accretion Phenomena Around Black Holes"
+    <ul>
+        <li>Date: 2023/08/10-11</li>
+        <li>Place: RESCEU Summer School 2023, Nagano, Japan</li>
+        <li>Presentation: Intensive Lecture</li>
+    </ul>
+    </li>
     
+    <li>Title: "ニュートリノ源対応天体のサイエンス"
+    <ul>
+        <li>Date: 2023/08/07</li>
+        <li>Place: JEDI Meeting, Sagamihara, Japan</li>
+        <li>Presentation: Talk</li>
+    </ul>
+    </li>
+    <li>Title: "Science Cases with JEDI - My Personal View - "
+    <ul>
+        <li>Date: 2023/05/11</li>
+        <li>Place: JEDI Meeting, Kyoto, Japan</li>
+        <li>Presentation: Talk</li>
+    </ul>
+    </li>
+    
+    <li>Title: "相対論が繋ぐビッグバンとブラックホール"
+    <ul>
+        <li>Date: 2023/04/25</li>
+        <li>Place: <a href="https://www.nhk-cul.co.jp/programs/program_1271671.html">NHK 講座「宇宙地球科学への招待」</a>, Osaka, Japan</li>
+        <li>Presentation: Talk</li>
+    </ul>
+    </li>
     <li>Title: "Non-thermal Coronal Activity in Nearby AGNs"
     <ul>
         <li>Date: 2023/03/06</li>
