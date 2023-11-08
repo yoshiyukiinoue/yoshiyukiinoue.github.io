@@ -12,6 +12,22 @@ comments: false
 {{< rawhtml >}}
     <ol reversed> 
         
+    <li>Title: "Non-thermal Coronal Activity in Seyfert Galaxies"
+    <ul>
+        <li>Date: 2023/11/14</li>
+        <li>Place: Chiba University, Chiba, Japan</li>
+        <li>Presentation: Seminar</li>
+    </ul>
+    </li>
+            
+    <li>Title: "Intensive Lecture: High Energy Astrophysics"
+    <ul>
+        <li>Date: 2023/11/13-15</li>
+        <li>Place: Chiba University, Chiba, Japan</li>
+        <li>Presentation: Intensive Lecture</li>
+    </ul>
+    </li>
+        
     <li>Title: "High-Energy Accretion Phenomena Around Black Holes"
     <ul>
         <li>Date: 2023/08/10-11</li>
