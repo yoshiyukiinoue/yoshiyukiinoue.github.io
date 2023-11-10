@@ -8,6 +8,20 @@ comments: false
 ## Previous Talks:
 [Before 2020](../talk_before2020/), [2020](../talk_2020/), [2021](../talk_2021/), [2022](../talk_2022/)
 
+## 2024
+{{< rawhtml >}}
+    <ol reversed> 
+        
+    <li>Title: TBD
+    <ul>
+        <li>Date: 2024/4/22-26</li>
+        <li>Place: International Conference on High Energy Density Sciences 2024, Yokohama, Japan</li>
+        <li>Presentation: Talk</li>
+    </ul>
+    </li>
+    </ol>
+{{< /rawhtml >}}
+
 ## 2023
 {{< rawhtml >}}
     <ol reversed> 
