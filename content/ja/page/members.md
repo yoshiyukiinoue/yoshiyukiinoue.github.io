@@ -1,14 +1,16 @@
 ---
-title: Group Members
+title: Team Members
 comments: false
 ---
 
 # Current Members
 |Name|Position|
 | ---- | ---- |
-| Samuel Barnier | ALMA PD |
-| [Yoshiyuki Inoue](../../page/profile/) | Associate Professor|
+| Samuel Barnier | JSPS Fellow |
+| Tatsuki Fujiwara  |  Graduate Student |
+| [Yoshiyuki Inoue](../../page/profile/) | Associate Professor |
 | [Ellis R. Owen](https://www.ellisowen.org/) | JSPS Fellow |
+| Nobuyuki Sakai  |  Graduate Student  |
 | Tomoya Yamada  |  Graduate Student  |
 | Kaoru Yanagisawa  |  Graduate Student  |
 
