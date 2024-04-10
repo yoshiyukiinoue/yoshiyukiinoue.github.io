@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Misc on Yoshiyuki Inoue</title>
+    <link>http://localhost:1313/tags/misc/</link>
+    <description>Recent content in Misc on Yoshiyuki Inoue</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <managingEditor>yinoue_at_astro-osaka.jp (Yoshiyuki Inoue)</managingEditor>
+    <webMaster>yinoue_at_astro-osaka.jp (Yoshiyuki Inoue)</webMaster>
+    <lastBuildDate>Wed, 27 May 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/misc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Renovate my website</title>
+      <link>http://localhost:1313/ja/post/2020-05-27-renovation-webpage/</link>
+      <pubDate>Wed, 27 May 2020 00:00:00 +0000</pubDate><author>yinoue_at_astro-osaka.jp (Yoshiyuki Inoue)</author>
+      <guid>http://localhost:1313/ja/post/2020-05-27-renovation-webpage/</guid>
+      <description>I renovate my website. Now it relys on Hugo. I adopt the Beautiful Hugo as the theme.</description>
+    </item>
+    <item>
+      <title>Renovate my website</title>
+      <link>http://localhost:1313/post/2020-05-27-renovation-webpage/</link>
+      <pubDate>Wed, 27 May 2020 00:00:00 +0000</pubDate><author>yinoue_at_astro-osaka.jp (Yoshiyuki Inoue)</author>
+      <guid>http://localhost:1313/post/2020-05-27-renovation-webpage/</guid>
+      <description>I renovate my website. Now it relys on Hugo. I adopt the Beautiful Hugo as the theme.</description>
+    </item>
+  </channel>
+</rss>

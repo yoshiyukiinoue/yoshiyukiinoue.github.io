@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Job on In English</title>
+    <link>http://localhost:1314/tags/job/</link>
+    <description>Recent content in Job on In English</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>yinoue_at_astro-osaka.jp (Yoshiyuki Inoue)</managingEditor>
+    <webMaster>yinoue_at_astro-osaka.jp (Yoshiyuki Inoue)</webMaster>
+    <lastBuildDate>Mon, 05 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1314/tags/job/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Postdoctoral Researcher Position at Osaka University</title>
+      <link>http://localhost:1314/ja/post/2020-10-05-alma_pd/</link>
+      <pubDate>Mon, 05 Oct 2020 00:00:00 +0000</pubDate><author>yinoue_at_astro-osaka.jp (Yoshiyuki Inoue)</author>
+      <guid>http://localhost:1314/ja/post/2020-10-05-alma_pd/</guid>
+      <description>Now I am seeking a postdoctoral researcher at Osaka University. The candidate will work on the study of AGN coronal emission using theory, X-ray data, and radio (ALMA) data.&#xA;The position is posted here: https://jobregister.aas.org/ad/c9248b30&#xA;Application Deadline: Friday, November 13, 2020&#xA;活動銀河核コロナの研究に関する特任研究員(理論 and/or 観測)を一名、公募しております。 応募締切は令和2年11月13日(金) 日本時間 15:00必着です。 国立天文台で雇用され、大阪大学(豊中キャンパス)に派遣される形になります。&#xA;詳しくはこちらをご参照ください。 https://jobregister.nao.ac.jp/ja-JP/jobVacancyList https://www.nao.ac.jp/contents/job-vacancy/job-20201012-alma-osaka.pdf&#xA;興味のある方々からの積極的なご応募をお待ちしております。&#xA;質問等あれば、お気軽にお問い合わせください。</description>
+    </item>
+  </channel>
+</rss>

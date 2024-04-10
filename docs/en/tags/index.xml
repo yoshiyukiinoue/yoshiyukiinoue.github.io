@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on In English</title>
+    <link>http://localhost:1314/tags/</link>
+    <description>Recent content in Tags on In English</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>yinoue_at_astro-osaka.jp (Yoshiyuki Inoue)</managingEditor>
+    <webMaster>yinoue_at_astro-osaka.jp (Yoshiyuki Inoue)</webMaster>
+    <lastBuildDate>Sat, 01 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1314/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>People</title>
+      <link>http://localhost:1314/tags/people/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate><author>yinoue_at_astro-osaka.jp (Yoshiyuki Inoue)</author>
+      <guid>http://localhost:1314/tags/people/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Research</title>
+      <link>http://localhost:1314/tags/research/</link>
+      <pubDate>Tue, 26 Apr 2022 00:00:00 +0000</pubDate><author>yinoue_at_astro-osaka.jp (Yoshiyuki Inoue)</author>
+      <guid>http://localhost:1314/tags/research/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Job</title>
+      <link>http://localhost:1314/tags/job/</link>
+      <pubDate>Mon, 05 Oct 2020 00:00:00 +0000</pubDate><author>yinoue_at_astro-osaka.jp (Yoshiyuki Inoue)</author>
+      <guid>http://localhost:1314/tags/job/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Lecture</title>
+      <link>http://localhost:1314/tags/lecture/</link>
+      <pubDate>Sat, 22 Aug 2020 00:00:00 +0000</pubDate><author>yinoue_at_astro-osaka.jp (Yoshiyuki Inoue)</author>
+      <guid>http://localhost:1314/tags/lecture/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Outreach</title>
+      <link>http://localhost:1314/tags/outreach/</link>
+      <pubDate>Sat, 22 Aug 2020 00:00:00 +0000</pubDate><author>yinoue_at_astro-osaka.jp (Yoshiyuki Inoue)</author>
+      <guid>http://localhost:1314/tags/outreach/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
