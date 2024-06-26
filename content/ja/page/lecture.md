@@ -6,6 +6,15 @@ comments: true
 # Lecture/講義関係
 
 
+## 2024
+- 力学2 (CLE 参照)
+- 力学2 演義 (CLE 参照)
+- 広島大学集中講義 (Password Required)
+    - [Lecture 1](../files/talk/2024/Hiroshima/yinoue_240701_Hiroshima_Lecture1.pdf),
+    [Lecture 2](../files/talk/2024/Hiroshima/yinoue_240701_Hiroshima_Lecture2.pdf),
+    [Lecture 3](../files/talk/2024/Hiroshima/yinoue_240701_Hiroshima_Lecture3.pdf),
+
+
 ## 2023
 - 力学2 (CLE 参照)
 - 力学2 演義 (CLE 参照)
