@@ -18,7 +18,8 @@ comments: true
     [Lecture 6](../files/talk/2024/Hiroshima/yinoue_240708_Hiroshima_Lecture6.pdf),
     [Lecture 7](../files/talk/2024/Hiroshima/yinoue_240709_Hiroshima_Lecture7.pdf),
     [Lecture 8](../files/talk/2024/Hiroshima/yinoue_240709_Hiroshima_Lecture8.pdf),
-    [Lecture 9](../files/talk/2024/Hiroshima/yinoue_240709_Hiroshima_Lecture9.pdf)
+    [Lecture 9](../files/talk/2024/Hiroshima/yinoue_240709_Hiroshima_Lecture9.pdf),
+    [Note](../files/talk/2024/Hiroshima/yinoue_24070109_Hiroshima_LectureNote.pdf)
 
 
 ## 2023
