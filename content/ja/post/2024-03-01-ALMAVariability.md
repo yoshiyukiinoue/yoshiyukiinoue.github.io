@@ -1,0 +1,9 @@
+---
+title: Our paper on Millimeter Time Variability in the Gamma-Ray Detected Seyfert Galaxy GRS 1734-292 is accepted by ApJ.
+date: "2024-03-01"
+tags: ["research"]
+---
+Title: [ALMA Confirmation of Millimeter Time Variability in the Gamma-Ray Detected Seyfert Galaxy GRS 1734-292](https://arxiv.org/abs/2404.00647).  
+Authors: Tomonari Michiyama, Yoshiyuki Inoue, Akihiro Doi, Tomoya Yamada, Yasushi Fukazawa, Hidetoshi Kubo, Samuel Barnier
+
+GRS 1734-292 is a radio-quiet galaxy, exhibiting neither intense starburst nor jet activities. However, Fermi-LAT detected this object in the GeV band. The origin of non-thermal activity in this Seyfert galaxy is an intriguing question. We report Atacama Large Millimeter/submillimeter Array (ALMA) observations of GRS 1734-292 at frequencies of 97.5, 145, and 225 GHz. These observations confirmed the millimeter excess within the central <100 pc region and its time variability based on two separate observations conducted four days apart. The timescale of variability aligns with the light crossing time for a compact source smaller than <100 Schwarzschild radius. If we take into account the power-law synchrotron emission originating from the corona (i.e., the hot plasma located above the accretion disk), the millimeter spectrum indicates the coronal magnetic field of ~10 G and the size of ~10 Schwarzschild radius. An alternative explanation for this millimeter emission could be synchrotron and free-free emission from disk winds (i.e., fast wide-opening angle outflows from the disk) with the size of ~10 pc, although it may be difficult to explain the fast variability. Future millimeter observations with higher resolution (~0.01") will enable the differentiation between these two scenarios. Such observations will provide insights into the acceleration sites of high-energy particles at the core of active galactic nuclei.

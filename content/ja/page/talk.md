@@ -6,86 +6,59 @@ comments: false
 
 
 ## Previous Talks:
-[Before 2020](../talk_before2020/), [2020](../talk_2020/), [2021](../talk_2021/), [2022](../talk_2022/)
+[Before 2020](../talk_before2020/), [2020](../talk_2020/), [2021](../talk_2021/), [2022](../talk_2022/), [2023](../talk_2023/)
 
 ## 2024
 {{< rawhtml >}}
-    <ol reversed> 
-        
-    <li>Title: TBD
+    <ol reversed>
+    <li>Title: Non-thermal Coronal Magnetic Activity in Nearby Seyferts
     <ul>
-        <li>Date: 2024/4/22-26</li>
+        <li>Date: 2024/7/9</li>
+        <li>Place: 広島大学コロキウム, Hiroshima, Japan</li>
+        <li>Presentation: Seminar</li>
+    </ul>
+    </li>  
+
+    <li>Title: 巨大ブラックホール近傍での磁気活動
+    <ul>
+        <li>Date: 2024/6/5</li>
+        <li>Place: 強磁場コラボラトリー Seminar, Online</li>
+        <li>Presentation: Seminar</li>
+    </ul>
+    </li>   
+
+    <li>Title: TeV Neutrinos from the Vicinity of Supermassive Black Holes
+    <ul>
+        <li>Date: 2024/5/24</li>
+        <li>Place: Yokohama National University, Yokohama, Japan</li>
+        <li>Presentation: Seminar</li>
+    </ul>
+    </li>  
+
+    <li>Title: Cosmic-Ray Activities in the Coronae of Active Supermassive Black Holes
+    <ul>
+        <li>Date: 2024/4/25</li>
         <li>Place: International Conference on High Energy Density Sciences 2024, Yokohama, Japan</li>
         <li>Presentation: Talk</li>
     </ul>
-    </li>
-    </ol>
-{{< /rawhtml >}}
+    </li> 
 
-## 2023
-{{< rawhtml >}}
-    <ol reversed> 
-        
-    <li>Title: "Non-thermal Coronal Activity in Seyfert Galaxies"
+    <li>Title: Non-thermal Coronal Magnetic Activity in Nearby Seyferts
     <ul>
-        <li>Date: 2023/11/14</li>
-        <li>Place: Chiba University, Chiba, Japan</li>
+        <li>Date: 2024/2/28</li>
+        <li>Place: Hong Kong University Physics Colloquium, Hong Kong, China</li>
+        <li>Presentation: Seminar</li>
+    </ul>
+    </li>   
+
+    <li>Title: Cosmological Aspects of Gamma-Ray Astrophysics
+    <ul>
+        <li>Date: 2024/2/26</li>
+        <li>Place: JSPS研究拠点形成事業・第13回国内交流若手セミナー, Online</li>
         <li>Presentation: Seminar</li>
     </ul>
     </li>
-            
-    <li>Title: "Intensive Lecture: High Energy Astrophysics"
-    <ul>
-        <li>Date: 2023/11/13-15</li>
-        <li>Place: Chiba University, Chiba, Japan</li>
-        <li>Presentation: Intensive Lecture</li>
-    </ul>
-    </li>
-        
-    <li>Title: "High-Energy Accretion Phenomena Around Black Holes"
-    <ul>
-        <li>Date: 2023/08/10-11</li>
-        <li>Place: RESCEU Summer School 2023, Nagano, Japan</li>
-        <li>Presentation: Intensive Lecture</li>
-    </ul>
-    </li>
-    
-    <li>Title: "ニュートリノ源対応天体のサイエンス"
-    <ul>
-        <li>Date: 2023/08/07</li>
-        <li>Place: JEDI Meeting, Sagamihara, Japan</li>
-        <li>Presentation: Talk</li>
-    </ul>
-    </li>
-    <li>Title: "Science Cases with JEDI - My Personal View - "
-    <ul>
-        <li>Date: 2023/05/11</li>
-        <li>Place: JEDI Meeting, Kyoto, Japan</li>
-        <li>Presentation: Talk</li>
-    </ul>
-    </li>
-    
-    <li>Title: "相対論が繋ぐビッグバンとブラックホール"
-    <ul>
-        <li>Date: 2023/04/25</li>
-        <li>Place: <a href="https://www.nhk-cul.co.jp/programs/program_1271671.html">NHK 講座「宇宙地球科学への招待」</a>, Osaka, Japan</li>
-        <li>Presentation: Talk</li>
-    </ul>
-    </li>
-    <li>Title: "Non-thermal Coronal Activity in Nearby AGNs"
-    <ul>
-        <li>Date: 2023/03/06</li>
-        <li>Place: <a href='https://indico.ph.tum.de/event/7179/'>Topical Workshop: NGC 1068 as cosmic laboratory</a>, Munich, Germany</li>
-        <li>Presentation: Talk</li>
-    </ul>
-    </li>
-    
-    <li>Title: "Prospects for Observations of Jetted and Unjetted Active Galactic Nuclei with CTA"
-    <ul>
-        <li>Date: 2023/02/07</li>
-        <li>Place: <a href="https://indico.icrr.u-tokyo.ac.jp/event/844/">The extreme Universe viewed in very-high-energy gamma rays 2022</a>, Kashiwa, Japan</li>
-        <li>Presentation: Talk</li>
-    </ul>
-    </li>
+
     </ol>
 {{< /rawhtml >}}
+
