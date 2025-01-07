@@ -1,18 +1,27 @@
 ---
-title: 研究紹介
+title: Research
 comments: false
 ---
-### 研究スタイル
-私は理論・観測の手段を問わずに研究を進めています。興味があれば何でもやってみようという研究スタンスです。
-
-### 主な研究対象
-* ブラックホール天体  
-
-天体現象としては、ブラックホール天体が好きです。ブラックホール天体といっても原始ブラックホールから巨大ブラックホール、降着円盤やジェットなど様々な研究テーマが挙げられますが、基本的にブラックホール関係は天体物理現象であれば、どの分野にも興味があります。
-
-* MeV ガンマ線天文学  
-
-重力波観測も可能となった現代天文学ですが、MeVガンマ線領域はその観測の窓が閉ざされています。そこで、MeVガンマ線天文学を切り拓くため、[Gamma-Ray and AntiMatter Survey (GRAMS)](https://express.northeastern.edu/grams/) 実験を推進しています。GRAMS は MeV ガンマ線だけでなく反粒子検出によるダークマター間接探索も行う実験計画です。
+### Research Style
+Our team tackles cosmic mysteries by bridging theoretical and observational approaches. We value intellectual curiosity and encourage free thinking, unrestricted by conventional methodological boundaries.
 
 
-詳しい研究内容は[論文リスト](../publication)などを参照してください。
+### Research Areas
+
+#### Black Hole Physics  
+
+Black holes remain at the forefront of modern astrophysics. Our research spans multiple scales and phenomena related to these enigmatic objects. We study primordial black holes, investigating their roles as dark matter. 
+
+In the realm of supermassive black holes, we focus on understanding their cosmological evolution. Our work extends to the physics of active galactic nuclei, where we investigate the complex interplay between black holes and their surrounding environment.
+
+We are particularly interested in accretion disks and jets, studying accretion flows, wind, jet, and the various processes responsible for high-energy radiation. This research helps us understand how black holes interact with and influence their surroundings.
+
+
+#### Pioneering MeV Gamma-ray Astronomy
+
+We are actively developing the [GRAMS (Gamma-Ray and AntiMatter Survey)](https://express.northeastern.edu/grams/) project to explore the uncharted territory of MeV gamma-ray astronomy. This innovative project aims to observe gamma-ray bursts in unprecedented detail and enhance our understanding of radiation mechanisms from active galactic nuclei. Through GRAMS, we study cosmic ray acceleration processes and conduct dark matter indirect detection searches.
+
+Our work involves developing cutting-edge detector systems and advanced data analysis methods. These technical developments not only serve our current research goals but also pave the way for future missions in high-energy astrophysics.
+
+
+For detailed information about our research activities, please check our [publication list](../publication). We welcome your visits and encourage interested students and researchers to contact us for further discussion about joining our team.

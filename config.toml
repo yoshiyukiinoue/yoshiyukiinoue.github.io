@@ -43,9 +43,6 @@ unsafe= true
   [[Params.bigimg]]
     src = "img/hubble_M51.jpg"
     desc = "Credit: NASA, ESA, S. Beckwith (STScI), and The Hubble Heritage Team (STScI/AURA)"
-  [[Params.bigimg]]
-    src = "img/BHcorona.jpg"
-    desc = "AGN Corona adopted from Inoue & Doi 2018"
 
 [params.author]
   name = "Yoshiyuki Inoue"
