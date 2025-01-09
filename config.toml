@@ -23,7 +23,7 @@ unsafe= true
 
 
 [Params]
-  mainSections = ["post","posts"]
+  mainSections = ["other-sections"] #["post","posts"]
   commit = false
   rss = true
   comments = true

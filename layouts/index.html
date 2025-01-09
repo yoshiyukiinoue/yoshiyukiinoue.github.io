@@ -1,0 +1,49 @@
+{{ define "main" }}
+  <div role="main" class="container">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        {{ with .Content }}
+          <div class="well">
+            {{.}}
+          </div>
+        {{ end }}
+
+        <!-- Twitter Timeline Section -->
+        <div class="tweets-section">
+          <h2>Latest Tweets</h2>
+          <a class="twitter-timeline" href="https://twitter.com/yoshiyukiXinoue?ref_src=twsrc%5Etfw">Tweets by yoshiyukiXinoue</a> 
+          <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+        </div>
+        <!-- End Twitter Timeline Section -->
+      
+        <!-- Old Posts Link -->
+        <div class="old-posts-link">
+          <h3>Looking for older posts?</h3>
+          <p><a href="/old-posts/">Visit the Old Posts Archive &rarr;</a></p>
+        </div>
+
+        <div class="posts-list">
+          {{ $pag := .Paginate (where site.RegularPages "Type" "in" site.Params.mainSections) }}
+          {{ range $pag.Pages }}
+            {{ partial "post_preview" . }}
+          {{ end }}
+        </div>
+
+        {{ if or (.Paginator.HasPrev) (.Paginator.HasNext) }}
+          <ul class="pager main-pager">
+            {{ if .Paginator.HasPrev }}
+              <li class="previous">
+                <a href="{{ .Permalink }}page/{{ .Paginator.Prev.PageNumber }}/">&larr; {{ i18n "newerPosts" }}</a>
+              </li>
+            {{ end }}
+            {{ if .Paginator.HasNext }}
+              <li class="next">
+                <a href="{{ .Permalink }}page/{{ .Paginator.Next.PageNumber }}/">{{ i18n "olderPosts" }} &rarr;</a>
+              </li>
+            {{ end }}
+          </ul>
+        {{ end }}
+      </div>
+    </div>
+  </div>
+{{ end }}

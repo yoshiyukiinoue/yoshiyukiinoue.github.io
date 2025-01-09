@@ -10,9 +10,9 @@
     <atom:link href="https://yoshiyukiinoue.github.io/tags/misc/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Renovate my website</title>
-      <link>https://yoshiyukiinoue.github.io/post/2020-05-27-renovation-webpage/</link>
+      <link>https://yoshiyukiinoue.github.io/old-posts/post/2020-05-27-renovation-webpage/</link>
       <pubDate>Wed, 27 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://yoshiyukiinoue.github.io/post/2020-05-27-renovation-webpage/</guid>
+      <guid>https://yoshiyukiinoue.github.io/old-posts/post/2020-05-27-renovation-webpage/</guid>
       <description>&lt;p&gt;I renovate my website. Now it relys on &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;. I adopt the &lt;a href=&#34;https://themes.gohugo.io/beautifulhugo/&#34;&gt;Beautiful Hugo&lt;/a&gt; as the theme.&lt;/p&gt;</description>
     </item>
   </channel>
