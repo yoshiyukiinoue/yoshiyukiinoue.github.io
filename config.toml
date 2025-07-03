@@ -33,6 +33,7 @@ unsafe= true
   socialShare = true
   delayDisqus = true
   showRelatedPosts = true
+  enableTwitter = true
 
   [[Params.bigimg]]
     src = "img/Fermi_5_year_small.jpg"
