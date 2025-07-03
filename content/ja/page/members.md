@@ -16,15 +16,17 @@ comments: false
 
 # Alumni
 
-|Name| Past Position|Current Position|
-| ---- | ---- | ---- |
-| Samuel Barnier | ALMA PD / JSPS Fellow |Project Researcher @ Chiba University|
-| [Ellis R. Owen](https://www.ellisowen.org/) | JSPS Fellow |SPDR Fellow @ RIKEN|
-| Tomoya Yamada  |  Graduate Student  | Private company |
-| Kaoru Yanagisawa  |  Graduate Student |Private company |
-| [Tomonari Michiyama](https://tomonarimitiyama.wixsite.com/mitimomo) | ALMA PD | Assistant Professor @ Shunan University|
-| [Naomi Tsuji](https://www.icrr.u-tokyo.ac.jp/staffs/16247/) | RIKEN iTHEMS PD| Assistant Professor @ ICRR, University of Tokyo|
-| [Nagisa Hiroshima](https://soryushi.ynu.ac.jp/Nhirosima/index.html) | RIKEN iTHEMS PD| Associate Professor @ Yokohama National University|
+| Name | Past Position | Term | Current Position |
+|------|---------------|------|------------------|
+| Samuel Barnier | ALMA PD / JSPS Fellow | 2023–2025 | Project Researcher at Chiba University |
+| [Ellis R. Owen](https://www.ellisowen.org/) | JSPS Fellow | 2022–2024 | SPDR Fellow at RIKEN |
+| Tomoya Yamada | Graduate Student | 2022–2024 | Private company |
+| Kaoru Yanagisawa | Graduate Student | 2021–2024 | Private company |
+| [Tomonari Michiyama](https://tomonarimitiyama.wixsite.com/mitimomo) | ALMA PD | 2021–2023 | Assistant Professor at Shunan University |
+| [Naomi Tsuji](https://www.icrr.u-tokyo.ac.jp/staffs/16247/) | RIKEN iTHEMS PD | 2020–2022 | Assistant Professor at ICRR, University of Tokyo |
+| [Nagisa Hiroshima](https://soryushi.ynu.ac.jp/Nhirosima/index.html) | RIKEN iTHEMS PD | 2019 | Associate Professor at Yokohama National University |
+
+
 
 
 # Long-Term Visitors
