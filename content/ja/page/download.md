@@ -14,5 +14,5 @@ Please read each paper for details. To download numerical data, please click the
     - The upper bound on the PBH mass fraction based on luminosity function of XRBs
     - Data File: [Limit_Omega_PBH_IK17.dat](../files/Limit_Omega_PBH_IK17.dat)
 
-- Extragalactic X-ray Binary Catalog: [(Inoue, Yabe, & Ueda 2021)](https://arxiv.org/abs/xxxxx)
+- Extragalactic X-ray Binary Catalog: [(Inoue, Yabe, & Ueda 2021)](https://ui.adsabs.harvard.edu/abs/2021PASJ...73.1315I)
     - Data File: [Link](../exrbcatalog/)

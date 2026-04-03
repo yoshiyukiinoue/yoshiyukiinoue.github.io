@@ -6,18 +6,19 @@ comments: false
 # Current Members
 |Name|Position|Projects|
 | ---- | ---- | ---- |
-| Tatsuki Fujiwara  |  Graduate Student (JST Fellow)|Cosmic Rays, Lunar Radiation|
-| Momoka Hamamoto |  Graduate Student  |AGN Corona|
-| [Yoshiyuki Inoue](../../page/profile/) | Associate Professor |Black Hole, AGN, High-Energy Astrophysics|
-| Riku Kobayashi  |  Graduate Student  |XRB Corona|
-| Katsunori Kusakabe  |  Graduate Student  |Supermassive Black Hole Binary|
-| Charles Lefort  |  Graduate Student  |Blazar Evolution|
-| Nobuyuki Sakai  |  Graduate Student (JST Fellow)|AGN Disk Wind|
+| Tatsuki Fujiwara  |  Graduate Student (JST Fellow, Osaka)|Cosmic Rays, Lunar Radiation|
+| Momoka Hamamoto |  Graduate Student (Osaka) |AGN Corona|
+| Qin Han | JSPS Fellow (Short Term) |Reionization, Cosmic Rays|
+| [Yoshiyuki Inoue](../../page/profile/) | Professor |Black Hole, AGN, High-Energy Astrophysics|
+| Charles Lefort  |  Graduate Student (Osaka)  |Blazar Evolution|
+| Nobuyuki Sakai  |  Graduate Student (JSPS Fellow, Osaka)|AGN Disk Wind|
 
 # Alumni
 
 | Name | Past Position | Term | Current Position |
 |------|---------------|------|------------------|
+| Riku Kobayashi  |  Graduate Student  |2024-2025 | Private company |
+| Katsunori Kusakabe  |  Graduate Student  |2024-2025 | Private company |
 | Samuel Barnier | ALMA PD / JSPS Fellow | 2023–2025 | Project Researcher at Chiba University |
 | [Ellis R. Owen](https://www.ellisowen.org/) | JSPS Fellow | 2022–2024 | SPDR Fellow at RIKEN |
 | Tomoya Yamada | Graduate Student | 2022–2024 | Private company |

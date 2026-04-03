@@ -10,25 +10,27 @@ comments: false
 
 # Profile
 **Name / 名前**: Yoshiyuki Inoue / 井上　芳幸\
-**Email**: yinoue_at_astro-osaka.jp    \
+**Email**: yinoue_at_shibaura-it.ac.jp    \
 **Research Fields**: High Energy Astrophysics, Black Holes, Active Galactic Nuclei, Relativistic Jets, Cosmic Background Radiation\
 **Missions**: CTA (2010-), Fermi (2012-), Hitomi (2012-), NuSTAR (2012-2014), MAGIC (2019-), GRAMS (2019-)  
 
 # Degrees
-* Ph.D., [Kyoto University](http://www.kyoto-u.ac.jp/), March 2012
-* M.Sc.,[Kyoto University](http://www.kyoto-u.ac.jp/), March 2009
-* B.Sc.,[Kyoto University](http://www.kyoto-u.ac.jp/), March 2007
+* Ph.D., [Kyoto University / 京都大学](http://www.kyoto-u.ac.jp/), March 2012
+* M.Sc.,[Kyoto University / 京都大学](http://www.kyoto-u.ac.jp/), March 2009
+* B.Sc.,[Kyoto University / 京都大学](http://www.kyoto-u.ac.jp/), March 2007
 * [Takatsuki High School / 高槻高校](https://www.takatsuki.ed.jp/), March 2003
 
 
 # Positions
-* 客員主管研究員, 理化学研究所数理創造プログラム (09/2020-)
-* 客員科学研究員, Kavli IPMU (07/2018-)
-* 大阪大学大学院理学研究科    准教授 (2020年9月16日〜現在)  
+* 芝浦工業大学システム理工学部    教授 (2026/04--)  
+* 客員科学研究員, Kavli IPMU (2018/07--)
+* 大阪大学大学院理学研究科    准教授 (2020/09--2026/03)  
+* 客員研究員, 理化学研究所数理創造プログラム (2025/04--2026/03)
+* 客員主管研究員, 理化学研究所数理創造プログラム (2020/09--2025/03)
 * 理化学研究所数理創造プログラム	上級研究員 (2017年11月 -- 2020年9月15日)  
-* JAXA国際トップヤングフェロー、宇宙航空研究開発機構/宇宙科学研究所（2014年2月 -- 2017年10月)
+* JAXA国際トップヤングフェロー、宇宙航空研究開発機構/宇宙科学研究所 (2014年2月 -- 2017年10月)
 * 日本学術振興会海外研究員、KIPAC/SLAC国立加速器研究所/スタンフォード大学 (2012年4月 -- 2014年1月)  
-* 日本学術振興会特別研究員、京都大学（2009年4月 -- 2012年3月)
+* 日本学術振興会特別研究員、京都大学 (2009年4月 -- 2012年3月)
                     
 # Awards
 * [2017年度日本天文学会研究奨励賞](http://www.asj.or.jp/asj/prize/Shorei.html)
@@ -37,7 +39,7 @@ comments: false
 * NASA APRA Proposal (Co-I), US$6,418,218, FY2023 -- 2026  
     "A prototype flight for the GRAMS project"
 * JSPS Grant-in-Aid for Grant-in-Aid for Challenging Research (Pioneering) (Co-I), ¥25,610,000, 2022/06/30 - 2028/03/31  
-    "Elucidating the origin of heavy elements by a space-based gamma-ray detector using liquid argon", [    22K18277](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-22K18277/')
+    "Elucidating the origin of heavy elements by a space-based gamma-ray detector using liquid argon", [22K18277](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-22K18277/')
 * 2021年度 ALMA共同科学研究事業 (PI), (A)モデル： 1 PD + ¥1,000,000 (for 3 yrs), FY2021-2023  
     ["ALMAで解き明かす超巨大ブラックホールコロナの磁気活動"](https://researchers.alma-telescope.jp/j/support_programs/almagrant/list.html)
 * JSPS Grant-in-Aid for Early-Career Scientists (PI), ¥3,770,000, FY2019-2021  

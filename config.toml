@@ -33,7 +33,7 @@ unsafe= true
   socialShare = true
   delayDisqus = true
   showRelatedPosts = true
-  enableTwitter = true
+  enableTwitter = false
 
   [[Params.bigimg]]
     src = "img/Fermi_5_year_small.jpg"
@@ -47,17 +47,17 @@ unsafe= true
 
 [params.author]
   name = "Yoshiyuki Inoue"
-  email = "yoshiyuki.inoue.sci_at_osaka-u.ac.jp"
+  email = "yinoue_at_shibaura-it.ac.jp"
   website = "https://yoshiyukiinoue.github.io/"
 
 [Author]
-  #name = "Yoshiyuki Inoue"
-  #website = "http://astro-osaka.jp/inoue/"
-  #email = "yinoue_at_astro-osaka.jp"
+  name = "Yoshiyuki Inoue"
+  website = "https://yoshiyukiinoue.github.io/"
+  email = "yinoue_at_shibaura-it.ac.jp"
   #github = "yinoue8521"
   #twitter = "username"
   #stackoverflow = "users/13423124/yinoue"
-  #instagram = "username"
+  instagram = "yoshiyuki.inoue.1985"
 
 [[menu.main]]
     name = "Top"
