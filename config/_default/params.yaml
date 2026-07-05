@@ -1,0 +1,43 @@
+# ============================================================
+# Hugo Blox の外観・機能パラメータ(たたき台)
+# ============================================================
+appearance:
+  theme_day: minimal
+  theme_night: minimal
+  font: minimal
+  font_size: L
+
+header:
+  navbar:
+    enable: true
+    align: r
+    show_logo: true
+    show_language: true      # ← 言語スイッチャー
+    show_day_night: true
+    show_search: true
+
+footer:
+  copyright:
+    notice: '© {year} Inoue High-Energy Astrophysics Lab, Shibaura Institute of Technology'
+
+locale:
+  date_format: '2006-01-02'
+
+features:
+  syntax_highlighter:
+    enable: true
+  math:
+    enable: true            # KaTeX(数式)
+  privacy_pack:
+    enable: false
+
+marketing:
+  seo:
+    site_type: Organization
+    local_business_type: ''
+    org_name: 'Inoue High-Energy Astrophysics Lab'
+
+# 論文ページの体裁
+publications:
+  date_format: 'January 2006'
+  citation_style: apa

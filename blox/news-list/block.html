@@ -1,0 +1,50 @@
+{{/* Custom block: news-list — 画像なし・個別ページなしのニュースタイムライン
+     content.title: セクション見出し (省略可)
+     content.count: 表示件数 (省略時は全件)
+     各ニュースは front matter の title / date / summary / links を表示する */}}
+{{ $page := .wcPage }}
+{{ $block := .wcBlock }}
+
+{{ $title := $block.content.title | emojify | $page.RenderString }}
+{{ $items := where $page.Site.RegularPages "Section" "news" }}
+{{ $items = $items.ByDate.Reverse }}
+{{ with $block.content.count }}
+  {{ $items = first . $items }}
+{{ end }}
+
+<div class="max-w-3xl mx-auto px-4 sm:px-6">
+  {{ with $title }}
+  <div class="text-center mb-8">
+    <h2 class="text-3xl font-bold text-gray-900 dark:text-white tracking-tight">
+      {{ . }}
+    </h2>
+  </div>
+  {{ end }}
+
+  <div class="divide-y divide-gray-200 dark:divide-gray-700">
+    {{ range $items }}
+    <div class="py-4 sm:flex sm:gap-6">
+      <time class="block shrink-0 sm:w-28 pt-0.5 text-sm text-gray-500 dark:text-gray-400">
+        {{ .Date.Format "2006-01-02" }}
+      </time>
+      <div class="min-w-0">
+        <h3 class="font-semibold text-gray-900 dark:text-white leading-snug">
+          {{ .Title }}
+        </h3>
+        {{ with .Params.summary }}
+        <p class="mt-1 text-sm text-gray-600 dark:text-gray-400 leading-relaxed">
+          {{ . }}
+        </p>
+        {{ end }}
+        {{ with .Params.links }}
+        <div class="mt-2 flex flex-wrap gap-1.5">
+          {{ range . }}
+          <a class="hea-pill" href="{{ .url }}" target="_blank" rel="noopener">{{ .text }}</a>
+          {{ end }}
+        </div>
+        {{ end }}
+      </div>
+    </div>
+    {{ end }}
+  </div>
+</div>

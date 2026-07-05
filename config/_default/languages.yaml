@@ -1,0 +1,23 @@
+# ============================================================
+# 言語設定
+#   en → https://yoshiyukiinoue.github.io/en/ (デフォルト)
+#   ja → https://yoshiyukiinoue.github.io/ja/
+#   ルート (/) は /en/ へリダイレクト
+# ============================================================
+ja:
+  locale: ja-JP
+  label: 日本語
+  weight: 2
+  contentDir: content/ja
+  title: 高エネルギー宇宙物理研究室(井上研)
+  params:
+    description: 芝浦工業大学 高エネルギー宇宙物理研究室(井上研究室)。ブラックホール天文学・MeVガンマ線天文学・月面放射線環境の研究。
+
+en:
+  locale: en-US
+  label: English
+  weight: 1
+  contentDir: content/en
+  title: High-Energy Astrophysics Lab
+  params:
+    description: Inoue High-Energy Astrophysics Laboratory at Shibaura Institute of Technology. Black hole astrophysics, MeV gamma-ray astronomy, and the lunar radiation environment.

@@ -1,0 +1,69 @@
+{{/* Custom override: team-showcase
+     - weight パラメータで表示順を制御(小さいほど先頭、未指定は 999)
+     - 本文(プロフィール内容)があるメンバーだけ名前をリンクにする
+     デザインはテーマ(blox-tailwind)の team-showcase と同一 */}}
+{{ $page := .wcPage }}
+{{ $block := .wcBlock }}
+
+{{ $title := $block.content.title | emojify | $page.RenderString }}
+{{ $groups := $block.content.user_groups }}
+
+{{/* authors セクションから対象グループの人を収集 */}}
+{{ $people := slice }}
+{{ range $page.Site.Pages }}
+  {{ if and (eq .Section "authors") .Params.user_groups }}
+    {{ if intersect .Params.user_groups $groups }}
+      {{ $people = $people | append . }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+{{ $people = sort $people ".Params.weight" "asc" }}
+
+<div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+  {{ with $title }}
+  <div class="flex flex-col items-center text-center mb-12">
+    <h2 class="text-3xl sm:text-4xl lg:text-5xl font-bold text-gray-900 dark:text-white tracking-tight">
+      {{ . }}
+    </h2>
+  </div>
+  {{ end }}
+
+  <div class="grid grid-cols-1 gap-8 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
+    {{ range $people }}
+    {{ $ext := .Params.external_url }}
+    {{ $hasProfile := gt (len (trim .Plain " \n")) 0 }}
+    <div class="group relative">
+      <div class="relative overflow-hidden rounded-2xl bg-white dark:bg-gray-800 shadow-lg hover:shadow-xl transition-all duration-300 transform hover:-translate-y-1">
+        <div class="p-6">
+          <h3 class="text-xl font-bold text-gray-900 dark:text-white mb-1">
+            {{ if $ext }}
+            {{ if hasPrefix $ext "http" }}
+            <a href="{{ $ext }}" target="_blank" rel="noopener" class="hover:text-primary-600 dark:hover:text-primary-400 transition-colors">
+              {{ .Title }}
+            </a>
+            {{ else }}
+            <a href="{{ $ext | relLangURL }}" class="hover:text-primary-600 dark:hover:text-primary-400 transition-colors">
+              {{ .Title }}
+            </a>
+            {{ end }}
+            {{ else if $hasProfile }}
+            <a href="{{ .RelPermalink }}" class="hover:text-primary-600 dark:hover:text-primary-400 transition-colors">
+              {{ .Title }}
+            </a>
+            {{ else }}
+            {{ .Title }}
+            {{ end }}
+          </h3>
+          {{ if $block.design.show_role | default true }}
+          {{ with .Params.role }}
+          <div class="text-gray-600 dark:text-gray-400">
+            <p class="font-medium">{{ . }}</p>
+          </div>
+          {{ end }}
+          {{ end }}
+        </div>
+      </div>
+    </div>
+    {{ end }}
+  </div>
+</div>

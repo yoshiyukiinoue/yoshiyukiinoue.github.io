@@ -1,0 +1,172 @@
+/* ============================================================
+   井上研カスタムテーマ: Academic Minimal(ネイビー × 金)
+   - プライマリ(ネイビー)/セカンダリ(金)のスケール上書き
+   - 見出しセリフ体(Source Serif 4 / しっぽり明朝)
+   - 各セクションの整形
+   ============================================================ */
+@import url('https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,600;8..60,700&family=Source+Sans+3:wght@400;600;700&family=Shippori+Mincho:wght@600;700&family=Noto+Sans+JP:wght@400;500;700&display=swap');
+
+/* ===== デザイントークン ===== */
+:root {
+  /* プライマリ: ネイビー(#14213D 系スケール) */
+  --hb-primary-50-rgb: 243 245 249;
+  --hb-primary-100-rgb: 228 232 241;
+  --hb-primary-200-rgb: 197 206 226;
+  --hb-primary-300-rgb: 169 182 209;
+  --hb-primary-400-rgb: 143 163 200;
+  --hb-primary-500-rgb: 84 105 149;
+  --hb-primary-600-rgb: 42 58 95;
+  --hb-primary-700-rgb: 30 44 76;
+  --hb-primary-800-rgb: 20 33 61;
+  --hb-primary-900-rgb: 14 23 44;
+  --hb-primary-950-rgb: 8 14 28;
+  /* セカンダリ: 金(#A8802A 系スケール) */
+  --hb-secondary-50-rgb: 250 246 236;
+  --hb-secondary-100-rgb: 243 234 210;
+  --hb-secondary-200-rgb: 231 214 166;
+  --hb-secondary-300-rgb: 217 190 117;
+  --hb-secondary-400-rgb: 203 166 76;
+  --hb-secondary-500-rgb: 184 145 46;
+  --hb-secondary-600-rgb: 168 128 42;
+  --hb-secondary-700-rgb: 138 104 33;
+  --hb-secondary-800-rgb: 110 83 28;
+  --hb-secondary-900-rgb: 87 65 23;
+  --hb-secondary-950-rgb: 51 37 12;
+  /* アクセント(金)・罫線 */
+  --hea-accent: #A8802A;
+  --hea-accent-strong: #8A6821;
+  --hea-border: #E5E7EE;
+}
+.dark {
+  --hea-accent: #D4A94C;
+  --hea-accent-strong: #B8912E;
+  --hea-border: #344054;
+}
+
+/* ===== タイポグラフィ ===== */
+body {
+  font-family: 'Source Sans 3', 'Noto Sans JP', ui-sans-serif, system-ui, sans-serif;
+}
+h1, h2, h3, h4 {
+  font-family: 'Source Serif 4', 'Shippori Mincho', serif;
+  letter-spacing: 0.01em;
+}
+
+/* ===== カテゴリアクセント(研究セクション) ===== */
+.hea-accent-navy { --hea-cat: #14213D; }
+.dark .hea-accent-navy { --hea-cat: #8FA3C8; }
+.hea-accent-gold { --hea-cat: #A8802A; }
+.dark .hea-accent-gold { --hea-cat: #D4A94C; }
+
+.hea-cat-band { border-left: 3px solid var(--hea-cat); padding-left: 1.25rem; }
+.hea-kicker {
+  font-family: 'Source Sans 3', 'Noto Sans JP', sans-serif;
+  font-size: 0.78rem; font-weight: 700; letter-spacing: 0.18em;
+  color: var(--hea-cat);
+}
+.hea-cat-link { color: var(--hea-cat); }
+.hea-cat-link:hover { text-decoration: underline; }
+
+/* アカデミック・フラットカード */
+.hea-card {
+  border: 1px solid var(--hea-border);
+  border-top: 3px solid var(--hea-cat);
+  box-shadow: none;
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
+}
+.hea-card:hover { transform: translateY(-3px); box-shadow: 0 8px 24px rgb(20 33 61 / 0.08); }
+
+/* リンクピル (ニュース・論文リスト共通) */
+.hea-pill {
+  display: inline-block; text-decoration: none;
+  font-size: 0.75rem; line-height: 1.5;
+  color: rgb(var(--hb-primary-600-rgb));
+  border: 1px solid var(--hea-border); border-radius: 9999px;
+  padding: 0 0.55rem;
+}
+.dark .hea-pill { color: rgb(var(--hb-primary-400-rgb)); }
+.hea-pill:hover { border-color: var(--hea-accent); color: var(--hea-accent); }
+
+/* アクセント(金)ボタン */
+.hea-btn-accent { background-color: var(--hea-accent); }
+.hea-btn-accent:hover { background-color: var(--hea-accent-strong); }
+
+/* ===== Hero ===== */
+.blox-hero-rotator h1 { text-shadow: 0 2px 18px rgb(0 0 0 / 0.45); }
+
+/* ===== 記事ページの見出し階層(研究ページ等)=====
+   h2 = カテゴリ(ネイビーの下罫線)/ h3 = トピック(金の左バー) */
+.prose h2 {
+  padding-bottom: 0.35em;
+  border-bottom: 2px solid rgb(var(--hb-primary-800-rgb));
+  margin-top: 2.2em;
+}
+.dark .prose h2 {
+  border-bottom-color: rgb(var(--hb-primary-400-rgb));
+}
+.prose h3 {
+  padding-left: 0.6em;
+  border-left: 3px solid var(--hea-accent);
+  margin-top: 1.8em;
+}
+
+/* ===== ニュース・論文リスト: 見出しとリストの間隔 ===== */
+.blox-collection .mt-16,
+.blox-collection .sm\:mt-20 {
+  margin-top: 1.25rem !important;
+}
+.blox-collection .space-y-16 > * + * {
+  margin-top: 1.75rem !important;
+}
+
+/* ===== 最近の論文(ホーム)===== */
+#latest-pubs .prose { font-size: 0.95rem; line-height: 1.8; }
+#latest-pubs .prose ul { list-style: none; padding-left: 0; }
+#latest-pubs .prose ul > li {
+  padding: 0.5rem 0 0.5rem 0.9rem;
+  margin: 0.6rem 0;
+  border-left: 2.5px solid var(--hea-border);
+}
+#latest-pubs .prose ul > li::marker { content: ''; }
+#latest-pubs .prose ul > li:hover { border-left-color: var(--hea-accent); }
+#latest-pubs .prose ul > li a {
+  display: inline-block; text-decoration: none;
+  font-size: 0.75rem; line-height: 1.4;
+  border: 1px solid var(--hea-border); border-radius: 9999px;
+  padding: 0 0.55rem; margin-right: 0.15rem;
+}
+#latest-pubs .prose ul > li a:hover { border-color: var(--hea-accent); color: var(--hea-accent); }
+
+/* ===== 研究カテゴリ: ブロック内の上下余白(元: 64-96px)===== */
+.blox-research-areas .py-16 {
+  padding-top: 1.5rem !important;
+  padding-bottom: 1.5rem !important;
+}
+/* 見出しとカードの間(元: 48-64px) */
+.blox-research-areas .mb-12 {
+  margin-bottom: 2rem !important;
+}
+
+/* ===== メンバー募集カード: 縮小 + ネイビー帯 + 金ボタン ===== */
+.blox-cta-card .max-w-6xl {
+  max-width: 52rem !important;          /* カード幅 */
+  padding: 2.5rem !important;           /* 内側余白(元: 32-80px) */
+}
+.blox-cta-card h2 {
+  font-size: 1.875rem !important;       /* 見出し(元: 最大72px) */
+  line-height: 1.3 !important;
+  color: #fff !important;               /* ネイビー地に白文字 */
+}
+.blox-cta-card h2 + div {
+  font-size: 1.05rem !important;        /* 本文(元: 最大24px) */
+  margin-top: 1rem !important;
+  color: rgb(255 255 255 / 0.92) !important;
+}
+.blox-cta-card .mt-10 {
+  margin-top: 1.5rem !important;        /* ボタンの上 */
+}
+.blox-cta-card a.group { color: #fff !important; }
+.blox-cta-card a.group > div.absolute {
+  background: var(--hea-accent) !important;
+  box-shadow: 0 4px 18px rgb(0 0 0 / 0.25) !important;
+}

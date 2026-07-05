@@ -1,0 +1,49 @@
+name: Deploy Hugo site to GitHub Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    env:
+      HUGO_VERSION: 0.163.0   # Hugo Blox 推奨版に合わせて調整
+    steps:
+      - uses: actions/checkout@v4
+        with: { fetch-depth: 0 }
+      - name: Install Hugo (extended)
+        run: |
+          wget -qO hugo.deb \
+            "https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.deb"
+          sudo dpkg -i hugo.deb
+      - name: Install Node dependencies (Tailwind CLI + plugins)
+        run: npm ci
+      - uses: actions/setup-go@v5
+        with: { go-version: '1.22' }
+      - uses: actions/configure-pages@v5
+        id: pages
+      - name: Build
+        run: hugo --minify --baseURL "${{ steps.pages.outputs.base_url }}/"
+      - uses: actions/upload-pages-artifact@v3
+        with: { path: ./public }
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

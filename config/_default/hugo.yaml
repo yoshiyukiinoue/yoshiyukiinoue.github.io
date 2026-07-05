@@ -1,0 +1,40 @@
+# ============================================================
+# Inoue High-Energy Astrophysics Lab — site configuration
+# ベース: Hugo Blox "Research Group" テンプレート
+# ============================================================
+title: 高エネルギー宇宙物理研究室(井上研)
+baseURL: 'https://yoshiyukiinoue.github.io/'
+
+build:
+  buildStats:
+    enable: true
+
+# 多言語: 英語を /en/ に、日本語を /ja/ に配置。ルート (/) は /en/ へリダイレクト
+defaultContentLanguage: en
+defaultContentLanguageInSubdir: true
+hasCJKLanguage: true
+
+summaryLength: 30
+pagination:
+  pagerSize: 10
+
+enableEmoji: true
+enableRobotsTXT: true
+timeout: 600000
+
+taxonomies:
+  tag: tags
+  category: categories
+  publication_type: publication_types
+  author: authors
+
+outputs:
+  home: [HTML, RSS, WebAppManifest]
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    codeFences: true
+    style: github-dark

@@ -1,0 +1,23 @@
+# Hugo Blox モジュール(research-group テンプレート利用時は go.mod / hugo mod が管理)
+imports:
+  - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-tailwind
+
+mounts:
+  # ▼ 標準ディレクトリの再宣言(mounts を書くと同系統のデフォルトが消えるため必須)
+  - source: assets
+    target: assets
+  - source: static
+    target: static
+  - source: layouts
+    target: layouts
+  # ▼ 自作ブロック: blox/<名前>/block.html を認識させる(モジュールと同じ流儀)
+  - source: blox
+    target: layouts/partials/hbx/blocks
+    files: '**/block.html'
+  # ▼ 将来 JSX/CSS 付きの自作ブロックを作る時用
+  - source: blox
+    target: assets/js/hbx/blocks
+    files: ['**/*.js', '**/*.jsx']
+  - source: blox
+    target: assets/css/hbx/blocks
+    files: '**/*.css'

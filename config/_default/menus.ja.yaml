@@ -1,0 +1,22 @@
+main:
+  - name: ホーム
+    url: /
+    weight: 10
+  - name: ニュース
+    url: /news/
+    weight: 25
+  - name: 研究
+    url: /research/
+    weight: 20
+  - name: メンバー
+    url: /people/
+    weight: 30
+  - name: 論文
+    url: /publication/
+    weight: 40
+  - name: 参加希望の方へ
+    url: /join/
+    weight: 70
+  - name: アクセス
+    url: /contact/
+    weight: 80

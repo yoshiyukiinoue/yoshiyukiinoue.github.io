@@ -1,0 +1,27 @@
+{
+  "name": "hea-website-dev",
+  "version": "1.0.0",
+  "description": "[![Screenshot](preview.png)](https://hugoblox.com/hugo-themes/)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yoshiyukiinoue/hea-website-dev.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/yoshiyukiinoue/hea-website-dev/issues"
+  },
+  "homepage": "https://github.com/yoshiyukiinoue/hea-website-dev#readme",
+  "devDependencies": {
+    "@tailwindcss/cli": "^4.3.0",
+    "@tailwindcss/typography": "^0.5.20",
+    "preact": "^10.29.2",
+    "tailwindcss": "^4.3.0"
+  }
+}
