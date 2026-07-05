@@ -49,7 +49,7 @@ sections:
             - name: ブラックホール天文学
               icon: star
               gradient: from-gray-700 to-slate-900
-              description: AGNコロナの磁場測定 (ALMA・IXPE・XRISM)、降着流の物理、事象の地平線近傍の極限物理。
+              description: AGNコロナの磁場測定・起源解明、ジェット駆動の解明、降着流の物理、事象の地平線近傍の極限物理。
               topics: [AGNコロナ, X線偏光, ALMA, XRISM]
               cta:
                 text: 詳しく
@@ -57,7 +57,7 @@ sections:
             - name: 高エネルギー天文学 (MeV)
               icon: bolt
               gradient: from-purple-500 to-fuchsia-600
-              description: MeVガンマ線天文学の開拓、IceCubeニュートリノとのマルチメッセンジャー研究。
+              description: MeVガンマ線天文学の開拓とマルチメッセンジャー研究。
               topics: [GRAMS, ニュートリノ, ブレーザー]
               cta:
                 text: 詳しく

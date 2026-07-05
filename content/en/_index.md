@@ -1,5 +1,5 @@
 ---
-title: Inoue High-Energy Astrophysics Lab
+title: High-Energy Astrophysics Lab
 type: landing
 
 sections:
@@ -49,7 +49,7 @@ sections:
             - name: Black Hole Astrophysics
               icon: star
               gradient: from-gray-700 to-slate-900
-              description: Magnetic field measurements of AGN coronae (ALMA, IXPE, XRISM), accretion physics, and extreme physics near the event horizon.
+              description: Magnetic field measurements and origin of AGN coronae, jet launching, accretion physics, and extreme physics near the event horizon.
               topics: [AGN coronae, X-ray polarimetry, ALMA, XRISM]
               cta:
                 text: Read more
@@ -57,7 +57,7 @@ sections:
             - name: High-Energy Astrophysics (MeV)
               icon: bolt
               gradient: from-purple-500 to-fuchsia-600
-              description: Pioneering MeV gamma-ray astronomy and multi-messenger studies with IceCube neutrinos.
+              description: Pioneering MeV gamma-ray astronomy and multi-messenger studies.
               topics: [GRAMS, neutrinos, blazars]
               cta:
                 text: Read more
