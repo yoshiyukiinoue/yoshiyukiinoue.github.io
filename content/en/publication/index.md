@@ -4,8 +4,8 @@ title: Publications
 
 This list is auto-generated from our public SciX (ADS) library. [SciX](https://scixplorer.org/public-libraries/r0HdPWXHQKOV8kUwuZDq5Q)
 
-
 Numerical data from our papers are available on the [Downloads](../downloads/) page.
+
 
 ## 2026
 

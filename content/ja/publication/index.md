@@ -4,8 +4,8 @@ title: 論文
 
 リストは SciX (ADS) 公開ライブラリから自動生成されています。 [SciX](https://scixplorer.org/public-libraries/r0HdPWXHQKOV8kUwuZDq5Q)
 
-
 論文で公開している数値データは [データ公開](../downloads/) ページにまとめています。
+
 
 ## 2026
 
