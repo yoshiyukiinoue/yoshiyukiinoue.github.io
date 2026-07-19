@@ -99,11 +99,11 @@ sections:
       title: 最近の論文
       text: |
         <!-- RECENT_PUBS:START -->
+        - Kawamuro, T., Yamada, S., Noda, H., **Inoue, Y.**, Ogawa, S., et al. (2026). XRISM Time-resolved Fe Kα Spectroscopy of NGC 4395: Time-variable Inner-disk Emission. *The Astrophysical Journal* 1005, L62. [ADS](https://ui.adsabs.harvard.edu/abs/2026ApJ..1005L..62K) / [arXiv](https://arxiv.org/abs/2606.21180) / [DOI](https://doi.org/10.3847/2041-8213/ae796e)
         - Xue, R., **Inoue, Y.**, Wang, Z., Liao, N., Xiong, D. (2026). Locating the Production Sites of High-Energy Neutrinos in Blazar Jets. *arXiv e-prints*, arXiv:2606.02024. [ADS](https://ui.adsabs.harvard.edu/abs/2026arXiv260602024X) / [arXiv](https://arxiv.org/abs/2606.02024) / [DOI](https://doi.org/10.48550/arXiv.2606.02024)
-        - Ly, M. N., **Inoue, Y.**, Sentoku, Y., Sano, T. (2026). Proton Acceleration by Collisionless Shocks in Supermassive Black Hole Coronae: Implications for High-energy Neutrinos. *The Astrophysical Journal* 1004, 27. [ADS](https://ui.adsabs.harvard.edu/abs/2026ApJ..1004...27L) / [arXiv](https://arxiv.org/abs/2601.01999) / [DOI](https://doi.org/10.3847/1538-4357/ae61ab)
-        - Sakai, N., **Inoue, Y.**, Owen, E. R. (2026). Revisiting Disk Winds in Active Galactic Nuclei as an Origin of Cosmic Gamma-ray and Neutrino Backgrounds. *arXiv e-prints*, arXiv:2606.17490. [ADS](https://ui.adsabs.harvard.edu/abs/2026arXiv260617490S) / [arXiv](https://arxiv.org/abs/2606.17490) / [DOI](https://doi.org/10.48550/arXiv.2606.17490)
-        - Komugi, S., Saito, T., Michiyama, T., **Inoue, Y.**, Nakanishi, K., et al. (2026). An Active Galactic Nucleus in the Antennae Galaxies?. *The Astrophysical Journal* 1004, 126. [ADS](https://ui.adsabs.harvard.edu/abs/2026ApJ..1004..126K) / [arXiv](https://arxiv.org/abs/2605.21879) / [DOI](https://doi.org/10.3847/1538-4357/ae707d)
         - PLUS Science Team, Baba, S., Belli, S., Benotto, P., Delvecchio, I., et al. (2026). GREX-PLUS Science Book v2. *arXiv e-prints*, arXiv:2606.05237. [ADS](https://ui.adsabs.harvard.edu/abs/2026arXiv260605237P) / [arXiv](https://arxiv.org/abs/2606.05237) / [DOI](https://doi.org/10.48550/arXiv.2606.05237)
+        - Ly, M. N., **Inoue, Y.**, Sentoku, Y., Sano, T. (2026). Proton Acceleration by Collisionless Shocks in Supermassive Black Hole Coronae: Implications for High-energy Neutrinos. *The Astrophysical Journal* 1004, 27. [ADS](https://ui.adsabs.harvard.edu/abs/2026ApJ..1004...27L) / [arXiv](https://arxiv.org/abs/2601.01999) / [DOI](https://doi.org/10.3847/1538-4357/ae61ab)
+        - Komugi, S., Saito, T., Michiyama, T., **Inoue, Y.**, Nakanishi, K., et al. (2026). An Active Galactic Nucleus in the Antennae Galaxies?. *The Astrophysical Journal* 1004, 126. [ADS](https://ui.adsabs.harvard.edu/abs/2026ApJ..1004..126K) / [arXiv](https://arxiv.org/abs/2605.21879) / [DOI](https://doi.org/10.3847/1538-4357/ae707d)
         <!-- RECENT_PUBS:END -->
         [論文一覧へ →](publication/)
     design:
