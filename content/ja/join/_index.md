@@ -10,10 +10,16 @@ title: 参加希望の方へ
 
 ## 大学院生 (修士・博士) {#grad}
 
-芝浦工業大学大学院 [理工学研究科](https://www.shibaura-it.ac.jp/examinee/graduate/index.html) にて大学院生を受け入れています。他大学からの受験も歓迎します。
+芝浦工業大学大学院 [理工学研究科](https://www.shibaura-it.ac.jp/examinee/graduate/index.html) にて大学院生を受け入れています。他大学からの受験も歓迎します。海外からの学生も受け入れており、研究はすべて英語で進めることも可能です。
 
 - 入試情報: [大学院 募集要項](https://www.shibaura-it.ac.jp/examinee/graduate/guideline.html)
-- 経済支援: [JST 次世代研究者挑戦的研究プログラム (SPRING)](https://www.shibaura-it.ac.jp/extra/spring/index.html) のほか、研究室の外部資金 ([JST 創発的研究支援事業](https://www.jst.go.jp/souhatsu/)) による RA 雇用も可能です。詳細はお問い合わせください
+- **2027年4月入学のスケジュール**: 出願前の事前相談は 2026年10月30日 締切 (出願は11月下旬、入試は2027年1月23日) です。**10月上旬までにメールでご連絡ください**
+- 経済支援 (博士):
+  - [JST 次世代研究者挑戦的研究プログラム (SPRING)](https://www.shibaura-it.ac.jp/extra/spring/index.html): 年間約200万円+研究費 (博士1年次に入学前後で申請)
+  - 研究室の外部資金 ([JST 創発的研究支援事業](https://www.jst.go.jp/souhatsu/)) による RA 雇用
+  - 大学独自の奨学金 (博士課程スカラーシップ等): [募集要項ページ](https://www.shibaura-it.ac.jp/examinee/graduate/guideline.html) を参照
+  - これらは原則併用できませんが、組み合わせにより学費・生活費を十分カバーできます
+- 参考: [大学院の学費](https://www.shibaura-it.ac.jp/examinee/graduate/tuition.html)
 - 研究テーマは、理論・シミュレーションから観測データ解析まで、興味と適性に合わせて相談して決めます
 
 ## 卒業研究生 {#undergrad}
