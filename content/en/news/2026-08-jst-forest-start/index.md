@@ -3,8 +3,8 @@ title: "JST FOREST project on black hole physics probed by magnetic fields near 
 date: 2026-08-01
 summary: "The research period of our JST FOREST project has begun."
 links:
-  - text: "Project page"
-    url: https://r3.jst.go.jp/r3web/kadai/kadai0102/init?tid=26155240
+  - text: "JST FOREST"
+    url: https://www.jst.go.jp/souhatsu/
 build:
   render: never
   list: always
