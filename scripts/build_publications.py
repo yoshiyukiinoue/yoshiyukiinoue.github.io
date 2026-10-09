@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""SciX (ADS) 公開ライブラリ → リンク付き論文リスト(Markdown)生成
+"""SciX 公開ライブラリ → リンク付き論文リスト(Markdown)生成
 
 - 個別論文ページは作らず、/publication/ に年ごとのフラットなリストを生成
 - トップページの <!-- RECENT_PUBS:START/END --> マーカー間を直近5本で更新
@@ -12,8 +12,10 @@ import os
 import re
 import sys
 import urllib.request
+from urllib.parse import quote
 
-API = "https://api.adsabs.harvard.edu/v1"
+API = "https://api.adsabs.harvard.edu/v1"  # SciX と共通の API
+SCIX = "https://scixplorer.org"
 LIB_ALL = "r0HdPWXHQKOV8kUwuZDq5Q"  # 全論文ライブラリ
 SITE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 MAX_AUTHORS = 5
@@ -75,7 +77,7 @@ def entry_md(d):
         ref += f" {vol}"
     if page:
         ref += f", {page}"
-    links = [f"[ADS](https://ui.adsabs.harvard.edu/abs/{d['bibcode']})"]
+    links = [f"[SciX]({SCIX}/abs/{quote(d['bibcode'], safe='.')}/abstract)"]
     arxiv = find_arxiv(d.get("identifier"))
     if arxiv:
         links.append(f"[arXiv](https://arxiv.org/abs/{arxiv})")
@@ -87,13 +89,13 @@ def entry_md(d):
 
 def page_md(docs, lang):
     title = "論文" if lang == "ja" else "Publications"
-    note = ("リストは SciX (ADS) 公開ライブラリから自動生成されています。"
+    note = ("リストは SciX 公開ライブラリから自動生成されています。"
             if lang == "ja" else
-            "This list is auto-generated from our public SciX (ADS) library.")
+            "This list is auto-generated from our public SciX library.")
     data_note = ("論文で公開している数値データは [データ公開](../downloads/) ページにまとめています。"
                  if lang == "ja" else
                  "Numerical data from our papers are available on the [Downloads](../downloads/) page.")
-    lib = f"https://scixplorer.org/public-libraries/{LIB_ALL}"
+    lib = f"{SCIX}/public-libraries/{LIB_ALL}"
     lines = ["---", f"title: {title}", "---", "",
              f"{note} [SciX]({lib})", "", data_note, ""]
     cur = None
