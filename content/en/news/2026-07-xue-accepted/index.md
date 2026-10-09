@@ -1,7 +1,7 @@
 ---
-title: "Paper on neutrino production sites in blazar jets (Xue et al.) accepted by ApJ"
+title: "Paper on neutrino production sites in blazar jets (Xue et al.) accepted by ApJS"
 date: 2026-07-29
-summary: "Our study locating where high-energy neutrinos are produced in blazar jets has been accepted for publication in The Astrophysical Journal."
+summary: "Our study locating where high-energy neutrinos are produced in blazar jets has been accepted for publication in The Astrophysical Journal Supplement Series."
 links:
   - text: "arXiv"
     url: https://arxiv.org/abs/2606.02024
