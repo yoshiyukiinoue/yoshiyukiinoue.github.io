@@ -51,6 +51,7 @@ sections:
       text: |
         | Name | Affiliation | Term |
         | --- | --- | --- |
+        | Qin Han | University College London | 2026-03 – 2026-09 |
         | Sierra Elbert | University of California, Berkeley | 2025-06 – 2025-08 |
         | Eva Li | University of California, Berkeley | 2025-06 – 2025-08 |
         | Anastasiia Omeliukh | Ruhr-Universität Bochum | 2023-06 – 2023-09, 2024-03 – 2024-06 |
