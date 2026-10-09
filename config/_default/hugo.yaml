@@ -9,6 +9,12 @@ build:
   buildStats:
     enable: true
 
+# Hugo 0.167 以降、外部コマンド tailwindcss の実行が既定で許可されなくなったため明示的に許可
+# (allow を書くと既定値が置き換わるので、既定の許可リストもそのまま列挙している)
+security:
+  exec:
+    allow: ['^(dart-)?sass$', '^go$', '^git$', '^node$', '^postcss$', '^tailwindcss$']
+
 # 多言語: 英語を /en/ に、日本語を /ja/ に配置。ルート (/) は /en/ へリダイレクト
 defaultContentLanguage: en
 defaultContentLanguageInSubdir: true
