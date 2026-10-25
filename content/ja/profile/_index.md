@@ -31,6 +31,7 @@ title: プロフィール
 
 ## 受賞
 
+- 2026年 PASP Star Reviewer (Publications of the Astronomical Society of the Pacific)
 - [2017年度 日本天文学会研究奨励賞](https://www.asj.or.jp/asj/prize/Shorei.html)
 
 ## 主な研究費
@@ -60,6 +61,10 @@ title: プロフィール
 - 宇宙線研究者会議 (CRC) 実行委員会委員 (2024/04–2025/03)
 - 宇宙線研究者会議 (CRC) 実行委員会委員 (2022/04–2023/03)
 - 理論天文学宇宙物理学懇談会 運営委員 (2020/12–2022/11)
+
+## 査読
+
+16誌の査読を担当：Advances in Space Research, Astronomy & Astrophysics, Astrophysical Journal (incl. Letters), European Physical Journal C, Galaxies, IEEE Transactions on Nuclear Science, Journal of Cosmology and Astroparticle Physics, Monthly Notices of the Royal Astronomical Society, Nature, Nature Astronomy, Physical Review Letters, Publications of the Astronomical Society of Japan, Publications of the Astronomical Society of the Pacific, Results in Physics, Reviews of Modern Physics, Science
 
 ## SOC/LOC
 

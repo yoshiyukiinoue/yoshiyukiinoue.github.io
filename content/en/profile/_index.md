@@ -31,6 +31,7 @@ title: Profile
 
 ## Awards
 
+- PASP Star Reviewer, Publications of the Astronomical Society of the Pacific (2026)
 - [Young Astronomer Award, Astronomical Society of Japan (2017)](https://www.asj.or.jp/asj/prize/Shorei.html)
 
 ## Selected grants
@@ -60,6 +61,10 @@ title: Profile
 - Executive Committee, Cosmic Ray Researchers Congress (CRC) (Apr 2024–Mar 2025)
 - Executive Committee, Cosmic Ray Researchers Congress (CRC) (Apr 2022–Mar 2023)
 - Steering Committee, Japanese Society of Theoretical Astronomy and Astrophysics (Dec 2020–Nov 2022)
+
+## Referee
+
+Refereed for 16 journals: Advances in Space Research, Astronomy & Astrophysics, Astrophysical Journal (incl. Letters), European Physical Journal C, Galaxies, IEEE Transactions on Nuclear Science, Journal of Cosmology and Astroparticle Physics, Monthly Notices of the Royal Astronomical Society, Nature, Nature Astronomy, Physical Review Letters, Publications of the Astronomical Society of Japan, Publications of the Astronomical Society of the Pacific, Results in Physics, Reviews of Modern Physics, Science
 
 ## SOC/LOC
 
