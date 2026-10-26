@@ -70,10 +70,16 @@ Refereed for 16 journals: Advances in Space Research, Astronomy & Astrophysics, 
 
 | Workshop | Place | Date |
 | --- | --- | --- |
+| [4th MeV Gamma-ray Astronomy Workshop](https://www-cr.scphys.kyoto-u.ac.jp/conference/mev-astro4/index.html) (SOC) | Osaka | Dec 9–11, 2026 |
+| [High Energy Astrophysics Workshop 2026](https://sites.google.com/g.ecc.u-tokyo.ac.jp/heap2026hongo) (SOC) | Tokyo | Oct 5–7, 2026 |
+| [MeV–PeV Frontiers: New Perspectives in Gamma-Ray Astronomy and Particle Acceleration](https://indico.ipmu.jp/event/472/) (SOC) | Kashiwa | Dec 16–18, 2025 |
+| [High Energy Astrophysics Workshop 2025](https://sites.google.com/view/heap2025osaka) (SOC/LOC) | Osaka | Dec 3–5, 2025 |
+| ALMA Workshop: Revealing the Nature of Supermassive Black Hole Coronae with Synergy of XRISM and ALMA (SOC/LOC) | Osaka | Mar 10–12, 2025 |
+| [High Energy Astrophysics Workshop 2024](https://sites.google.com/view/heap2024sendai) (SOC) | Sendai | Oct 21–23, 2024 |
 | [Eleventh Fermi Symposium](https://fermi.gsfc.nasa.gov/science/mtgs/symposia/eleventh/) (International SOC) | Maryland, USA | Sep 9–13, 2024 |
 | [Beyond Obscuration (EAS Meeting Special Session)](https://eas.unige.ch/EAS2024/session.jsp?id=SS14) (SOC) | Padova, Italy | Jul 1, 2024 |
 | [MeV Gamma-ray Astronomy session, ASJ Meeting](https://www.asj.or.jp/nenkai/archive/2024a/session-Z3.html) (SOC) | Tokyo | Mar 11, 2024 |
-| [ICRC2023](https://www.icrc2023.org/) (LOC / GA Session Convener) | Osaka | Jul 26–Aug 3, 2023 |
+| [ICRC2023](https://www.icrc2023.org/) (LOC / GA Session Convener) | Nagoya | Jul 26–Aug 3, 2023 |
 | [35th Rironkon Symposium](https://sites.google.com/view/rironkon2022/) (SOC) | Fukushima | Dec 21–23, 2022 |
 | [34th Rironkon Symposium](https://sites.google.com/view/rironkon2021/) (SOC) | online | Dec 22–24, 2021 |
 | [High Energy Astrophysics Workshop 2021](https://sites.google.com/view/highenergyastrophys2021/) (SOC) | online | Nov 24–26, 2021 |

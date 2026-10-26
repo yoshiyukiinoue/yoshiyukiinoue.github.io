@@ -70,10 +70,16 @@ title: プロフィール
 
 | 研究会 | 場所 | 日程 |
 | --- | --- | --- |
+| [第4回MeVガンマ線天文学研究会](https://www-cr.scphys.kyoto-u.ac.jp/conference/mev-astro4/index.html) (SOC) | 大阪 | 2026/12/9–12/11 |
+| [高エネルギー宇宙物理学研究会2026](https://sites.google.com/g.ecc.u-tokyo.ac.jp/heap2026hongo) (SOC) | 東京 | 2026/10/5–10/7 |
+| [MeV–PeV Frontiers: New Perspectives in Gamma-Ray Astronomy and Particle Acceleration](https://indico.ipmu.jp/event/472/) (SOC) | 柏 | 2025/12/16–12/18 |
+| [高エネルギー宇宙物理学研究会2025](https://sites.google.com/view/heap2025osaka) (SOC/LOC) | 大阪 | 2025/12/3–12/5 |
+| ALMAワークショップ「Revealing the Nature of Supermassive Black Hole Coronae with Synergy of XRISM and ALMA」 (SOC/LOC) | 大阪 | 2025/3/10–3/12 |
+| [高エネルギー宇宙物理学研究会2024](https://sites.google.com/view/heap2024sendai) (SOC) | 仙台 | 2024/10/21–10/23 |
 | [Eleventh Fermi Symposium](https://fermi.gsfc.nasa.gov/science/mtgs/symposia/eleventh/) (International SOC) | Maryland, USA | 2024/9/9–9/13 |
 | [Beyond Obscuration (EAS Meeting Special Session)](https://eas.unige.ch/EAS2024/session.jsp?id=SS14) (SOC) | Padova, Italy | 2024/7/1 |
 | [MeVガンマ線天文学：2020年代後半の展望 (天文学会企画セッション)](https://www.asj.or.jp/nenkai/archive/2024a/session-Z3.html) (SOC) | 東京 | 2024/3/11 |
-| [ICRC2023](https://www.icrc2023.org/) (LOC / GA Session Convener) | 大阪 | 2023/7/26–8/3 |
+| [ICRC2023](https://www.icrc2023.org/) (LOC / GA Session Convener) | 名古屋 | 2023/7/26–8/3 |
 | [第35回理論懇シンポジウム](https://sites.google.com/view/rironkon2022/) (SOC) | 福島 | 2022/12/21–12/23 |
 | [第34回理論懇シンポジウム](https://sites.google.com/view/rironkon2021/) (SOC) | zoom | 2021/12/22–12/24 |
 | [高エネルギー宇宙物理学研究会2021](https://sites.google.com/view/highenergyastrophys2021/) (SOC) | zoom | 2021/11/24–11/26 |
